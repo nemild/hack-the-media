@@ -1,12 +1,12 @@
 # Hacking Engineers and Engineering Media
-## Background
+### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
 This document aims to collect examples of intentional hacks, as well as those that are unintentional, but distort the decisions we make. The hope is to unbias these sources and provide antibodies to engineers so that they can make better personal and team decisions. (For more background, see this introductory essay)
 
-Contributions are welcome (see our [guidelines](./contributing.md)).
+Contributions are welcome (see our [guidelines](contributing.md)).
 
-## General Notes
+### General Notes
 - When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people (or on FB/Twitter, you alone) want to read/hear
@@ -14,8 +14,8 @@ Contributions are welcome (see our [guidelines](./contributing.md)).
 - Always need to ask what the technical background and self motivation of speaker/writer is when deciding how to weigh their opinion; a surprising number of people with little subject matter expertise on highly technical topics have strong opinions
 - Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this, which you need to consciously correct for
 
-## Sources and Hacks
-### Social Media
+### Sources and Hacks
+## Social Media
 #### Reddit and Hacker News
 
 **How it works**
@@ -75,7 +75,7 @@ Contributions are welcome (see our [guidelines](./contributing.md)).
 
 	- My research on Islamic terrorism coverage in the NY Times vs non-Islamic terrorism and homicides ([link](https://www.nemil.com/s/part2-terrorism.html))
 
-### Conferences and Meetup
+## Conferences and Meetups
 **How it works**
 
 - Conferences make money primarily through ticket sales, sponsorships, and booths; they aim to fill the conference seats
@@ -103,7 +103,7 @@ Contributions are welcome (see our [guidelines](./contributing.md)).
 - Weigh the background and personal motivations of every speaker
 - Weigh the motivations and editorial power of who’s running conference
 
-### Content Marketing
+## Content Marketing
 **How it works**
 
 - Create “valuable” content that doesn’t look like an ad; is apt to get engagement and influence engineer behavior (examples: uptake a dev tool platform, enroll in a training program, join a company, use an open source package)
@@ -123,14 +123,14 @@ Contributions are welcome (see our [guidelines](./contributing.md)).
 - Have to be able to identify when something is content marketing
 - Ask what is motivation of writer and how this influences their view; also need to understand their technical background
 - Use content marketing to learn, but use it with proper skepticism
-	- Fred Wilson, Partner Union Square Ventures: 
+	- Fred Wilson, Partner Union Square Ventures:
 
 > “So how should entrepreneurs use this knowledge that is being imparted by VCs …? Well first and foremost, you should see it as content marketing… That doesn’t mean it isn’t useful or insightful. It may well be. But you should understand the business model supporting all of this free content. *It is being generated to get you to come visit that VC and offer them to participate in your Seed or Series A round.* That blog post that Joe claimed is not scripture in his tweet is actually an _advertisement_. Kind of the opposite of scripture, right?” ([link](http://avc.com/2016/08/understanding-vcs/))
 
-### Tech blogs and top media publications
+## Tech blogs and top media publications
 **How it works**
 
-- Trained journalists research various topics and work with editors to publish on blogs and print news
+- Trained (and untrained) journalists research various topics and work with editors to publish on blogs and print news
 - Media organizations most often make money from ads; in some cases, they make money from subscription fees
 - At it’s best, [goal of journalism](https://www.reuters.com/article/rpb-adlertrump-idUSKBN15F276) is to give the “facts [we] need to make good decisions
 	- Baser goal is to optimize eyeballs and number of paying subscribers by providing content that audiences want to read
@@ -144,12 +144,13 @@ Contributions are welcome (see our [guidelines](./contributing.md)).
 
 **Other Issues**
 
-- Reader interest and social media algorithms prize engaging content, rather than information that leads to good engineering decisions
+- **Engagement is king**: Reader interest and social media algorithms prize engaging content, rather than information that leads to good engineering decisions
 	- Coverage is a function of reader interest; fundamental problem with using media to make decisions
-		- What’s covered is not same as what’s important for the decisions we make each day; focus on newsworthiness and relevance leads to substantial “sampling bias”
-	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price)
-- **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics
-- **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists leave or work in house
+		- What’s covered is not same as what’s important for the decisions we make each day
+		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
+	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, US election of 2016)
+- **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
+- **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
 - **Access**: Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (example: [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html))
 - Journalists try to:
 	- maintain good source relationships (e.g., investors) and access for future information
@@ -166,14 +167,16 @@ Contributions are welcome (see our [guidelines](./contributing.md)).
 	- My research on death coverage in the NY Times and risk assessment ([link](https://www.nemil.com/s/part3-horror-films.html))
 - Realize vivid stories are powerful for user engagement, while lots of drier data and stories that inform good decisions are less monetizable (example: [Shooting of Australian in US - and needs/pre-existing beliefs of Australian readers](https://www.nytimes.com/2017/07/22/us/minneapolis-police-shooting.html))
 - Dig into technical background of writer
-- When you see something covered, ask yourself who is motivated to have it covered this way (especially valuable in laudatory personal profiles)
+- When you see something covered, ask yourself who is motivated to have it covered this way 
+	- Especially valuable in laudatory personal profiles
 	- In leaks, who could have leaked it and what was their motive? What important information might be unleaked?
 - When a PR-like piece is shared ([A24 in GQ](https://www.gq.com/story/a24-studio-oral-history), IBM Watson, a laudatory profile) , ask what the covered party’s motivation is to get the word out now (recruiting, sales, corporate branding)
-- Read “All the News That’s Fit to Sell” (Stanford Professor James Hamilton) and [Public Opinion](https://en.wikipedia.org/wiki/Public_Opinion_(book)) (Walter Lippmann) for more on how events are turned into news
+- Read *[All the News That’s Fit to Sell](https://www.amazon.com/All-News-Thats-Fit-Sell/dp/0691123675/ref=sr_1_1)* (Stanford Professor James Hamilton) and *[Public Opinion](https://en.wikipedia.org/wiki/Public_Opinion_(book))* (Walter Lippmann) for more on how events are turned into news
 
-### Fellow engineers
+## Fellow engineers
 
 **How it works**
+
 - Fellow engineers may be vocal in social media, conferences, and on mailing lists
 
 
