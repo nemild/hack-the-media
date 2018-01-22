@@ -144,11 +144,11 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 
 **Other Issues**
 
-- **Engagement is king**: Reader interest and social media algorithms prize engaging content, rather than information that leads to good engineering decisions
+- **Engagement is king**: Reader interest and social media algorithms prize engaging content, rather than information that leads to good engineering decisions (example: [Cecil the Lion](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html))
 	- Coverage is a function of reader interest; fundamental problem with using media to make decisions
-		- What’s covered is not same as what’s important for the decisions we make each day
+		- What’s covered is not the same as what’s important for the decisions we make each day
 		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
-	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, US election of 2016)
+	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
 - **Access**: Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (example: [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html))
