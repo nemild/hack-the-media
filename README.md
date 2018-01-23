@@ -7,16 +7,18 @@ This document aims to collect examples of intentional hacks, as well as those th
 Contributions are welcome (see our [guidelines](contributing.md)).
 
 ### General Notes
-- When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
+- **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people (or on FB/Twitter, you alone) want to read/hear
-- Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
-- Always need to ask what the technical background and self motivation of speaker/writer is when deciding how to weigh their opinion; a surprising number of people with little subject matter expertise on highly technical topics have strong opinions
-- Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this, which you need to consciously correct for
+- **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
+- **Technical Background**: Always need to ask what the technical background and self motivation of speaker/writer is when deciding how to weigh their opinion; a surprising number of people with little subject matter expertise on highly technical topics have strong opinions
+- **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this, which you need to consciously correct for
+- **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media, that justifies their parochial views
+- **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
 ### Sources and Hacks
 ## Social Media
-#### Reddit and Hacker News
+#### *Reddit and Hacker News*
 
 **How it works**
 
@@ -40,7 +42,7 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 - **Clickbait**: Decision of clickworthiness made on title alone, leading to incentives for clickworthy titles and easily explained content
 - **Extreme “other”**: Lack of empathy for other side, as more relevant to see the most extreme actions of the other side and ignore the poor actions of the most extreme people on your side (example: [CIA deaths versus limited coverage in US of CIA actions elsewhere](https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html), [one cryptocurrency subreddit’s view on another](https://twitter.com/FEhrsam/status/892429946550837248))
 
-#### Facebook and Twitter Feeds
+#### *Facebook and Twitter Feeds*
 
 **How it works**
 
