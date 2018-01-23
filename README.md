@@ -10,11 +10,12 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people (or on FB/Twitter, you alone) want to read/hear
+	- This is a key reason for so much content about hyped topics like blockchains, AI, or the latest frontend framework
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
-- **Technical Background**: Always need to ask what the technical background and self motivation of speaker/writer is when deciding how to weigh their opinion; a surprising number of people with little subject matter expertise on highly technical topics have strong opinions
+- **Technical Background**: Always need to ask what the technical background and self motivation of speaker/writer is when deciding how to weigh their opinion; a surprising number of people with little subject matter expertise have strong opinions on highly technical topics
 - **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this, which you need to consciously correct for
-- **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media, that justifies their parochial views
-- **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; critical for us to identify ways our data sources are influenced — and how to partially unbias them
+- **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media that justifies their parochial views; they do this by encouraging content that supports their views and paying scientists/engineers to support these views
+- **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
 ### Sources and Hacks
 ## Social Media
