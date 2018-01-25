@@ -2,7 +2,7 @@
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
-This document aims to collect examples of intentional hacks, as well as those that are unintentional, but distort the decisions we make. The hope is to unbias these sources and provide antibodies to engineers so that they can make better personal and team decisions. (For more background, see this introductory essay)
+This document collects examples of intentional and unintentional hacks of software engineering information sources. The hope is to unbias these sources and provide antibodies to engineers so that they can make better personal and team decisions. (For more background, see this introductory essay - COMING SOON)
 
 Contributions are welcome (see our [guidelines](contributing.md)).
 
@@ -137,7 +137,7 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 - Media organizations most often make money from ads; in some cases, they make money from subscription fees
 - At it’s best, [goal of journalism](https://www.reuters.com/article/rpb-adlertrump-idUSKBN15F276) is to give the “facts [we] need to make good decisions
 	- Baser goal is to optimize eyeballs and number of paying subscribers by providing content that audiences want to read
-	- Similarities to a convenience store that determines product placement based on maximizing sales)
+	- Similarities to a convenience store that determines product placement based on maximizing sales
 
 **Example Hacks**
 
