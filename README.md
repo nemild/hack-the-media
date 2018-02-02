@@ -7,13 +7,15 @@ This document collects examples of intentional and unintentional hacks of softwa
 Contributions are welcome (see our [guidelines](contributing.md)).
 
 ### General Notes
+- Key questions to ask with any media
+  - Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
+  - What is the technical background of the writer? A surprising number of people with little subject matter expertise have strong opinions on highly technical topics
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people (or on FB/Twitter, you alone) want to read/hear
 	- This is a key reason for so much content about hyped topics like blockchains, AI, or the latest frontend framework
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
-- **Technical Background**: Always need to ask what the technical background and self motivation of speaker/writer is when deciding how to weigh their opinion; a surprising number of people with little subject matter expertise have strong opinions on highly technical topics
-- **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this, which you need to consciously correct for
+- **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this. Leads you to a deeply flawed view of other side, which you need to consciously correct for by favoring moderate voices on the "other" side
 - **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media that justifies their parochial views; they do this by encouraging content that supports their views and paying scientists/engineers to support these views
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
@@ -72,6 +74,8 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 - Ari Paul, CIO Blocktower:
 
 > “When I tweet anything positive about cryptocurrency it gets 10x the likes/shares as anything negative…” ([link](https://twitter.com/aridavidpaul/status/938153893636247552))
+
+This example shares a lot of similarities with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader").
 
 - Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap)
 	- Noah Smith: “There are always a handful of people out there doing any stupid, crazy, or annoying thing you can imagine. And the media has an incentive to find those people and shove their excesses in your face.” ([link](https://twitter.com/noahpinion/status/934837949404811264))
@@ -170,7 +174,7 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 	- My research on death coverage in the NY Times and risk assessment ([link](https://www.nemil.com/s/part3-horror-films.html))
 - Realize vivid stories are powerful for user engagement, while lots of drier data and stories that inform good decisions are less monetizable (example: [Shooting of Australian in US - and needs/pre-existing beliefs of Australian readers](https://www.nytimes.com/2017/07/22/us/minneapolis-police-shooting.html))
 - Dig into technical background of writer
-- When you see something covered, ask yourself who is motivated to have it covered this way 
+- When you see something covered, ask yourself who is motivated to have it covered this way
 	- Especially valuable in laudatory personal profiles
 	- In leaks, who could have leaked it and what was their motive? What important information might be unleaked?
 - When a PR-like piece is shared ([A24 in GQ](https://www.gq.com/story/a24-studio-oral-history), IBM Watson, a laudatory profile) , ask what the covered party’s motivation is to get the word out now (recruiting, sales, corporate branding)
@@ -186,7 +190,7 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 **Example Hacks**
 
 - Give them a monetizable business model, so that they’ll represent your views (example: [MongoDB consultants who then speak favorably about MongoDB](http://web.archive.org/web/20120724115659/http://meghangill.com/2012/06/25/how-to-run-a-tech-conference-part-4-finding-speakers/))
-- Give them equity in the success of your business — increasing the likelihood they’ll speak positively of you and, at minimal, reducing the likelihood they can publicly say negative things about you (example: [cryptocurrency ownership](https://twitter.com/fehrsam/status/892429946550837248), open source developer equity grant)
+- Give them equity in the success of your business — increasing the likelihood they’ll speak positively of you and, at minimum, reducing the likelihood they can publicly say negative things about you (example: [cryptocurrency ownership](https://twitter.com/fehrsam/status/892429946550837248), open source developer equity grant)
 
 **Other Issues**
 
