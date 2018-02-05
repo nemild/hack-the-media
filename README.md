@@ -59,7 +59,7 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 
 **Other issues**
 
-- Extreme degree of confirmation bias
+- **Confirmation Bias**: Extreme degree of confirmation bias
 	- we click on content that justifies our individual views without interacting with the full body of research on a topic
 	- Gives us an irrational confidence that we know what is “reality”, because all evidence we see justifies a certain view
 	- May easily dismiss valid opposing viewpoints
@@ -102,7 +102,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 **Other issues**
 
 - **Invisible hand of the sponsor/organizer**: Hard to speak badly about any sponsor, as it may impact if you’ll get free follow-up marketing or a future speaker invitation (Example: [Server Density highlights marketing benefit from speaking at MongoDB conference](https://blog.serverdensity.com/does-everyone-hate-mongodb/))
-- **Surfing on hype**: Conferences need to fill seats, and so often feature ideas that will encourage this
+- **Surfing on hype**: Conferences need to fill seats, and so often feature tested ideas that will encourage this (e.g., NoSQL)
 
 **Potential Antibodies**
 
@@ -123,11 +123,13 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 **Other Issues**
 
+- Lots of content marketing passes for journalism
 - Need to write content on widely read topics to maximize readership; leads to an echo chamber of hype around new technologies since these have been validated to be of interest
+
 
 **Potential Antibodies**
 
-- Have to be able to identify when something is content marketing
+- Have to be able to identify when something is content marketing;
 - Ask what is motivation of writer and how this influences their view; also need to understand their technical background
 - Use content marketing to learn, but use it with proper skepticism
 	- Fred Wilson, Partner Union Square Ventures:
@@ -141,13 +143,14 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 - Media organizations most often make money from ads; in some cases, they make money from subscription fees
 - At it’s best, [goal of journalism](https://www.reuters.com/article/rpb-adlertrump-idUSKBN15F276) is to give the “facts [we] need to make good decisions
 	- Baser goal is to optimize eyeballs and number of paying subscribers by providing content that audiences want to read
-	- Similarities to a convenience store that determines product placement based on maximizing sales
+	- Similarities to a convenience store that determines product placement based on maximizing sales (maximizing viewership is a key reason for the journalistic saying "If it bleeds, it leads")
 
 **Example Hacks**
 
-- Leak something to a journalist that reflects unfavorably on your competitor, allowing it to receive more credibility than if sourced back to your company (example: [Speculation of New England Patriots leak](https://www.nytimes.com/2018/01/14/sports/football/patriots-tom-brady-belichick.html), politics on any given day)
-- Pay for PR firm to place (example: [Syria’s Asma al-Assad’s team pays $5k for help getting a favorable Vogue article](https://www.theatlantic.com/international/archive/2012/01/the-only-remaining-online-copy-of-vogues-asma-al-assad-profile/250753/))
-- Pay journalist/writer directly to place a piece (example: [HuffPo/Forbes/etc](https://news.ycombinator.com/item?id=16182576))
+- **Selective Leaking**: Leak something to a journalist that reflects unfavorably on your competitor, allowing it to receive more credibility than if sourced back to your company (example: [Speculation of New England Patriots leak](https://www.nytimes.com/2018/01/14/sports/football/patriots-tom-brady-belichick.html), politics on any given day)
+- **Pay to place**: Pay journalist/writer directly to place a piece (example: [HuffPo/Forbes/etc](https://news.ycombinator.com/item?id=16182576))
+- **Pay others to place**: Pay for PR firm to place (example: [Syria’s Asma al-Assad’s team pays $5k for help getting a favorable Vogue article](https://www.theatlantic.com/international/archive/2012/01/the-only-remaining-online-copy-of-vogues-asma-al-assad-profile/250753/))
+- **Pre-written Articles**: Write a press release that is easy for a journalist to publish without modification
 
 **Other Issues**
 
@@ -158,7 +161,9 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
-- **Access**: Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (example: [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html))
+- **Access**: Journalists trade favorable coverage for access/tips; businesses favor journalists that "toe the line"
+  - Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (example: [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html))
+  - Hard to get access in first place with many "A-listers", unless they have something to sell
 - Journalists try to:
 	- maintain good source relationships (e.g., investors) and access for future information
 	- manage substantial story deadlines with limited time (example: [Paul Graham’s post on maximizing PR and importance of making stories easy for journalists](http://www.paulgraham.com/submarine.html))
