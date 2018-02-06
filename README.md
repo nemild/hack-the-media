@@ -2,7 +2,7 @@
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
-This document collects examples of intentional and unintentional hacks of software engineering information sources like Hacker News, Reddit, and tech blogs. The hope is to unbias these sources and provide antibodies to engineers so that they can make better personal and team decisions. (For more background, see this introductory essay - COMING SOON)
+This document collects examples of intentional and unintentional hacks of software engineering information sources like Hacker News, Reddit, and tech blogs. The hope is to unbias these sources and provide antibodies to engineers so that they can make better personal and team decisions. (For more background, see this [introductory essay](https://www.nemil.com/musings/hack-an-engineer.html))
 
 Contributions are welcome (see our [guidelines](contributing.md)).
 
