@@ -19,6 +19,20 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 - **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media that justifies their parochial views; they do this by encouraging content that supports their views and paying scientists/engineers to support these views
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
+### Content Playbook
+These are common content strategies that technical organizations can use to influence engineers:
+
+- Play into an engineer’s fear of being left behind technologically
+  - Argue something is the future and what’s used now is old and anachronistic; especially powerful on junior developers (example: [“modern web development”, MongoDB coining the term “post-transactional future”](https://www.nemil.com/mongo/3.html))
+
+- Write derivative content on hyped topics, as you know there’s a huge market that already wants to read this (examples: blockchains, NoSQL)
+  - Hype is a function of reader interest, but often says little about engineering appropriateness
+
+- Support others who write seemingly tangential content that supports the need for your product (example: containerization and microservices)
+
+- Write something controversial that you don’t really fully believe
+  - controversial posts engage partisans and evoke vitriol (“engagement”) on the other side in social media, which is the fuel to get something widely discussed
+
 ### Sources and Hacks
 ## Social Media
 #### *Reddit and Hacker News*
@@ -168,6 +182,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- maintain good source relationships (e.g., investors) and access for future information
 	- manage substantial story deadlines with limited time (example: [Paul Graham’s post on maximizing PR and importance of making stories easy for journalists](http://www.paulgraham.com/submarine.html))
 	- show strong engagement metrics to ensure job security (Example: [Greta Van Susteren at MSNBC](https://www.nytimes.com/2017/06/29/business/media/greta-van-susteren-leaving-msnbc-after-only-six-months.html))
+	- Can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html))
 	- use “three’s a trend” as common heuristic, despite the fact that this would be laughable to most statisticians (example: [Great Clown Scare of 2016](https://www.nytimes.com/2016/09/13/insider/on-the-creepy-clown-beat-you-really-cant-make-this-stuff-up.html))
 	- (sometimes) keep a future career path open to the technology sector
 - Media organizations/journalists can try to reward supporters (Example: [speculation about National Enquirer and Donald Trump](https://www.newyorker.com/magazine/2017/07/03/the-national-enquirers-fervor-for-trump), [Donna Brazile and Hilary Clinton](https://www.snopes.com/donna-brazile-leaves-cnn/), debates about the relationship between media barons and politicians around the world)
