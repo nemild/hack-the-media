@@ -152,9 +152,9 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - Trained (and untrained) journalists research various topics and work with editors to publish on blogs and print news
 - Media organizations most often make money from ads; in some cases, they make money from subscription fees
-- At it’s best, [goal of journalism](https://www.reuters.com/article/rpb-adlertrump-idUSKBN15F276) is to give the “facts [we] need to make good decisions
+- At it's best, [goal of journalism](https://www.reuters.com/article/rpb-adlertrump-idUSKBN15F276) is to give the "facts [we] need to make good decisions"
 	- Baser goal is to optimize eyeballs and number of paying subscribers by providing content that audiences want to read
-	- Similarities to a convenience store that determines product placement based on maximizing sales (maximizing viewership is a key reason for the journalistic saying "If it bleeds, it leads")
+	- News site can have some similarities to a convenience store that determines product placement based on maximizing sales (maximizing viewership is a key reason for the journalistic saying "If it bleeds, it leads")
 
 **Example Hacks**
 
@@ -165,11 +165,12 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 **Other Issues**
 
-- **Engagement is king**: Reader interest and social media algorithms prize engaging content, rather than information that leads to good engineering decisions (example: [Cecil the Lion](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html))
+- **Engagement is king**: Reader interest and social media algorithms prize engaging content, rather than information that leads to good engineering decisions (example: [feverish coverage of Cecil the Lion](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html))
 	- Coverage is a function of reader interest; fundamental problem with using media to make decisions
 		- What’s covered is not the same as what’s important for the decisions we make each day
 		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
 	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
+- **Rewarding Supporters/Attacking Opponents**: Media organizations/journalists can try to reward supporters such as negotiating with politicians for favorable coverage or painting their enemies in an unfavorable light (Example: [speculation about National Enquirer and Donald Trump](https://www.newyorker.com/magazine/2017/07/03/the-national-enquirers-fervor-for-trump), [Donna Brazile and Hilary Clinton](https://www.snopes.com/donna-brazile-leaves-cnn/), [Benjamin Netanyahu negotiating for more positive coverage](https://www.nytimes.com/2017/01/08/world/middleeast/israel-benjamin-netanyahu-yediot-aharonot-deal.html), [speculation that Rupert Murdoch implicitly threatened Mark Zuckerburg for better economics from Facebook](https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/), debates about the relationship between media barons and politicians around the world)
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
 - **Access**: Journalists trade favorable coverage for access/tips; businesses favor journalists that "toe the line"
@@ -182,7 +183,6 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- Can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html))
 	- use “three’s a trend” as common heuristic, despite the fact that this would be laughable to most statisticians (example: [Great Clown Scare of 2016](https://www.nytimes.com/2016/09/13/insider/on-the-creepy-clown-beat-you-really-cant-make-this-stuff-up.html))
 	- (sometimes) keep a future career path open to the technology sector
-- Media organizations/journalists can try to reward supporters such as negotiating with politicians for favorable coverage or painting their enemies in an unfavorable light (Example: [speculation about National Enquirer and Donald Trump](https://www.newyorker.com/magazine/2017/07/03/the-national-enquirers-fervor-for-trump), [Donna Brazile and Hilary Clinton](https://www.snopes.com/donna-brazile-leaves-cnn/), [Benjamin Netanyahu negotiating for more positive coverage](https://www.nytimes.com/2017/01/08/world/middleeast/israel-benjamin-netanyahu-yediot-aharonot-deal.html), [Rupert Murdoch asking for more media economics from Facebook](https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/), debates about the relationship between media barons and politicians around the world)
 
 **Potential antibodies**
 
