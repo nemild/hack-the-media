@@ -152,12 +152,15 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - Trained (and untrained) journalists research various topics and work with editors to publish on blogs and print news
 - Media organizations most often make money from ads; in some cases, they make money from subscription fees
-- At it's best, [goal of journalism](https://www.reuters.com/article/rpb-adlertrump-idUSKBN15F276) is to give the "facts [we] need to make good decisions"
+- At its best, [goal of journalism](https://www.reuters.com/article/rpb-adlertrump-idUSKBN15F276) is to give the "facts [we] need to make good decisions"
 	- Baser goal is to optimize eyeballs and number of paying subscribers by providing content that audiences want to read
 	- News site can have some similarities to a convenience store that determines product placement based on maximizing sales (maximizing viewership is a key reason for the journalistic saying "If it bleeds, it leads")
 
 **Example Hacks**
 
+- **Rewarding Supporters/Attacking Opponents**: Media organizations/journalists can try to reward supporters such as negotiating with politicians for favorable coverage or painting their enemies in an unfavorable light; can do this to gain exclusive future access from a source or reduce competition
+    - In tabloid industry, buying story to bury it is called "[catch and kill](https://www.newyorker.com/news/news-desk/donald-trump-a-playboy-model-and-a-system-for-concealing-infidelity-national-enquirer-karen-mcdougal)"
+    - Examples: [speculation about National Enquirer and Donald Trump](https://www.newyorker.com/magazine/2017/07/03/the-national-enquirers-fervor-for-trump), [Donna Brazile and Hilary Clinton](https://www.snopes.com/donna-brazile-leaves-cnn/), [Benjamin Netanyahu negotiating for more positive coverage](https://www.nytimes.com/2017/01/08/world/middleeast/israel-benjamin-netanyahu-yediot-aharonot-deal.html), [speculation that Rupert Murdoch implicitly threatened Mark Zuckerburg for better economics from Facebook](https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/), debates about the relationship between media barons and politicians around the world
 - **Selective Leaking**: Leak something to a journalist that reflects unfavorably on your competitor, allowing it to receive more credibility than if sourced back to your company (example: [Speculation of New England Patriots leak](https://www.nytimes.com/2018/01/14/sports/football/patriots-tom-brady-belichick.html), politics on any given day)
 - **Pay to place**: Pay journalist/writer directly to place a piece (example: [HuffPo/Forbes/etc](https://news.ycombinator.com/item?id=16182576))
 - **Pay others to place**: Pay for PR firm to place (example: [Syria’s Asma al-Assad’s team pays $5k for help getting a favorable Vogue article](https://www.theatlantic.com/international/archive/2012/01/the-only-remaining-online-copy-of-vogues-asma-al-assad-profile/250753/))
@@ -170,7 +173,6 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 		- What’s covered is not the same as what’s important for the decisions we make each day
 		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
 	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
-- **Rewarding Supporters/Attacking Opponents**: Media organizations/journalists can try to reward supporters such as negotiating with politicians for favorable coverage or painting their enemies in an unfavorable light (Example: [speculation about National Enquirer and Donald Trump](https://www.newyorker.com/magazine/2017/07/03/the-national-enquirers-fervor-for-trump), [Donna Brazile and Hilary Clinton](https://www.snopes.com/donna-brazile-leaves-cnn/), [Benjamin Netanyahu negotiating for more positive coverage](https://www.nytimes.com/2017/01/08/world/middleeast/israel-benjamin-netanyahu-yediot-aharonot-deal.html), [speculation that Rupert Murdoch implicitly threatened Mark Zuckerburg for better economics from Facebook](https://www.wired.com/story/inside-facebook-mark-zuckerberg-2-years-of-hell/), debates about the relationship between media barons and politicians around the world)
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
 - **Access**: Journalists trade favorable coverage for access/tips; businesses favor journalists that "toe the line"
