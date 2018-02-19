@@ -32,6 +32,22 @@ These are common content strategies that technical organizations can use to infl
 
 ### Sources and Hacks
 ## Social Media
+
+
+#### Common Issues Across Social Media Platforms
+
+*Example Hacks*
+
+- **Selective facts (intentional)**: Share partial facts with your follows (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view); key issue with relying on likeminded friends to dictate your content choices (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
+- **Fake News**: False content that comport to reader’s views (example: fake news)
+- **Fake comments and shares**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
+
+*Other Issues*
+
+- **Selective facts (unintentional)**: Algorithms favor factual coverage that only shows part of the picture, as this maximizes engagement; key issue with relying on likeminded friends to dictate content
+- **Extreme “other”**: Lack of empathy for other side, as more relevant to see the most extreme actions of the other side and ignore the poor actions of the most extreme people on your side (example: [CIA deaths versus limited coverage in US of CIA actions elsewhere](https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html), [one cryptocurrency subreddit’s view on another](https://twitter.com/FEhrsam/status/892429946550837248))
+- **Clickbait**: Decision of clickworthiness made on title alone, leading to incentives for clickworthy titles and easily explained content
+
 #### *Reddit and Hacker News*
 
 **How it works**
@@ -53,8 +69,6 @@ These are common content strategies that technical organizations can use to infl
 - **Militant Minority**: Upvoting and posting community is likely small compared to readers, providing lots of power to a small group of motivated users; motivated users are often people who personally benefit from post
 - **Different Needs**: Ideal tools for one group/use case don’t map to another group/use case, even though both share the same social network (Example: frontend engineer’s database preferences for a hackathon vs. backend engineer’s database preferences for production, [TDD and the needs of consultants](https://news.ycombinator.com/item?id=14664311))
 - **Tribalism**: Tribal behavior by key influencers can determine how certain topics are received (example: Though HN was quite negative to MongoDB, what would the reaction been if MongoDB was a Y Combinator company?, [How does one cryptocurrency subreddit approach another](https://twitter.com/FEhrsam/status/892430348285427713)?)
-- **Clickbait**: Decision of clickworthiness made on title alone, leading to incentives for clickworthy titles and easily explained content
-- **Extreme “other”**: Lack of empathy for other side, as more relevant to see the most extreme actions of the other side and ignore the poor actions of the most extreme people on your side (example: [CIA deaths versus limited coverage in US of CIA actions elsewhere](https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html), [one cryptocurrency subreddit’s view on another](https://twitter.com/FEhrsam/status/892429946550837248))
 
 #### *Facebook and Twitter Feeds*
 
@@ -63,21 +77,19 @@ These are common content strategies that technical organizations can use to infl
 - Algorithms take newly posted content from often likeminded friends/followers and decide what to feature so that user engagement is maximized (click, like, share/retweet)
 - Unlike Reddit model, algorithm is focused on maximizing engagement for each individual user, not for a broader, more diverse community
 
-**Example hacks**
-
-- **Fake News**: False content that comport to reader’s views (example: fake news)
-- **Selective facts**: Partial facts (factual coverage that only shows part of the picture); key issue with relying on likeminded friends to dictate content
 
 **Other issues**
 
 - **Confirmation Bias**: Extreme degree of confirmation bias
-	- we click on content that justifies our individual views without interacting with the full body of research on a topic
+	- We click on content that justifies our individual views without interacting with the full body of research on a topic; newsfeed algorithms see the choices and give us more of the same
 	- Gives us an irrational confidence that we know what is “reality”, because all evidence we see justifies a certain view
 	- May easily dismiss valid opposing viewpoints
 
 **Potential Antibodies**
 
-- Realize huge degree of confirmation bias on Twitter/Facebook — and echo chambers in every social network; social media gives readers what they want, not what they need
+- **Wants vs Needs**: Social feed algorithms focus on user "wants", but in engineering, huge value to determining your "needs"
+
+- Realize huge degree of confirmation bias on Twitter/Facebook — and echo chambers in every social network
 	- Ari Paul, CIO Blocktower, on social media around cryptocurrency:
 
 > “Easiest way to be popular is to tell people what they want to hear.  Easiest way to get rich is to tell rich people lies that they want to hear.” ([link](https://twitter.com/aridavidpaul/status/938154852567396352))
@@ -86,11 +98,10 @@ These are common content strategies that technical organizations can use to infl
 
 > “When I tweet anything positive about cryptocurrency it gets 10x the likes/shares as anything negative…” ([link](https://twitter.com/aridavidpaul/status/938153893636247552))
 
-This example shares a lot of similarities with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader").
+This example shares a lot of similarities with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader") and distributed on social networks.
 
-- Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap)
-	- Noah Smith: “There are always a handful of people out there doing any stupid, crazy, or annoying thing you can imagine. And the media has an incentive to find those people and shove their excesses in your face.” ([link](https://twitter.com/noahpinion/status/934837949404811264))
-
+- Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap); applies in engineering communities, but also across religions and countries
+	- Noah Smith: “There are always a handful of people out there doing any stupid, crazy, or annoying thing you can imagine. And the media has an incentive to find those people and shove their excesses in your face.” ([link](https://twitter.com/noahpinion/status/934837949404811264)); social media algorithms especially value these extreme events, as they help them maximize engagement
 	- My research on Islamic terrorism coverage in the NY Times vs non-Islamic terrorism and homicides ([link](https://www.nemil.com/s/part2-terrorism.html))
 
 ## Conferences and Meetups
