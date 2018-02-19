@@ -7,12 +7,13 @@ This document collects examples of intentional and unintentional hacks of softwa
 Contributions are welcome (see our [guidelines](contributing.md)).
 
 ### General Notes
-- Key questions to ask with any media
+- Key questions to ask with any media:
   - Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
   - What is the technical background of the writer? A surprising number of people with little subject matter expertise have strong opinions on highly technical topics
+  - Why is the media distributor (social network, news organization) putting this piece of content in front of me?
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype
-	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people (or on FB/Twitter, you alone) want to read/hear
+	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear
 	- This is a key reason for so much content about hyped topics like blockchains, AI, or the latest frontend framework
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
 - **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this. Leads you to a deeply flawed view of other side, which you need to consciously correct for by favoring moderate voices on the "other" side
@@ -24,7 +25,7 @@ These are common content strategies that technical organizations can use to infl
 
 - Play into an engineer’s fear of being left behind technologically
   - Argue something is the future and what’s used now is old and anachronistic; especially powerful on junior developers (example: [“modern web development”, MongoDB coining the term “post-transactional future”](https://www.nemil.com/mongo/3.html))
-- Write derivative content on hyped topics, as you know there’s a huge market that already wants to read this (examples: blockchains, NoSQL)
+- Write derivative content on hyped topics, as you know there’s a huge market that already wants to read this (examples: blockchains, NoSQL, microservices)
   - Hype is a function of reader interest, but often says little about engineering appropriateness
 - Support others who write seemingly tangential content that supports the need for your product (example: containerization and microservices)
 - Write something controversial that you don’t really fully believe
@@ -38,7 +39,7 @@ These are common content strategies that technical organizations can use to infl
 
 *Example Hacks*
 
-- **Selective facts (intentional)**: Share partial facts with your follows (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view); key issue with relying on likeminded friends to dictate your content choices (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
+- **Selective facts (intentional)**: Share partial facts with your followers (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view); key issue with relying on likeminded friends to dictate your content choices (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Fake News**: False content that comport to reader’s views (example: fake news)
 - **Fake comments and shares**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
 
@@ -81,8 +82,8 @@ These are common content strategies that technical organizations can use to infl
 **Other issues**
 
 - **Confirmation Bias**: Extreme degree of confirmation bias
-	- We click on content that justifies our individual views without interacting with the full body of research on a topic; newsfeed algorithms see the choices and give us more of the same
-	- Gives us an irrational confidence that we know what is “reality”, because all evidence we see justifies a certain view
+	- We click on content that justifies our individual views without interacting with the full body of research on a topic; newsfeed algorithms see these choices and give us more of the same
+	- Gives us an irrational confidence that we know what is “reality”, because all evidence we see justifies a certain view - and the only opposing side that breaks through is the most extreme voices
 	- May easily dismiss valid opposing viewpoints
 
 **Potential Antibodies**
@@ -123,7 +124,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 **Other issues**
 
-- **Invisible hand of the sponsor/organizer**: Hard to speak badly about any sponsor, as it may impact if you’ll get free follow-up marketing or a future speaker invitation (Example: [Server Density highlights marketing benefit from speaking at MongoDB conference](https://blog.serverdensity.com/does-everyone-hate-mongodb/))
+- **Invisible hand of the sponsor/organizer**: Hard to speak badly about any sponsor/conference organizer, as it may impact if you’ll get free follow-up marketing or a future speaker invitation (Example: [Server Density highlights marketing benefit from speaking at MongoDB conference](https://blog.serverdensity.com/does-everyone-hate-mongodb/))
 - **Surfing on hype**: Conferences need to fill seats, and so often feature tested ideas that will encourage this (e.g., NoSQL)
 
 **Potential Antibodies**
@@ -151,7 +152,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 **Potential Antibodies**
 
-- Have to be able to identify when something is content marketing;
+- Have to be able to identify when something is content marketing
 - Ask what is motivation of writer and how this influences their view; also need to understand their technical background
 - Use content marketing to learn, but use it with proper skepticism
 	- Fred Wilson, Partner Union Square Ventures:
