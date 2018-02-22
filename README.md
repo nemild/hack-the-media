@@ -58,6 +58,8 @@ These are common content strategies that technical organizations can use to infl
 - Comments are similarly upvoted, with early comments generally advantaged over later comments
 - Goal is to favor content that is likely to be heavily upvoted *for the community of upvoters*
 - (Popular input source in startup communities and for junior engineers)
+- For more on Hacker News, see [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
+
 
 **Example hacks**
 
