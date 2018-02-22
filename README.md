@@ -16,7 +16,7 @@ Contributions are welcome (see our [guidelines](contributing.md)).
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear
 	- This is a key reason for so much content about hyped topics like blockchains, AI, or the latest frontend framework
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
-- **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see opposite side in worst light (see many cryptocurrency communities); algorithms and even editors cater to this. Leads you to a deeply flawed view of other side, which you need to consciously correct for by favoring moderate voices on the "other" side
+- **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see many cryptocurrency communities). Leads you to a deeply flawed view of other side, which you need to consciously correct for by favoring moderate voices on the "other" side. Also suggests that algorithms need to chase more than outrage and engagement
 - **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media that justifies their parochial views; they do this by encouraging content that supports their views and paying scientists/engineers to support these views
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
@@ -39,7 +39,7 @@ These are common content strategies that technical organizations can use to infl
 
 *Example Hacks*
 
-- **Selective facts (intentional)**: Share partial facts with your followers (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view); key issue with relying on likeminded friends to dictate your content choices (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
+- **Selective facts (intentional)**: Share partial facts with your followers (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view) (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Fake News**: False content that comport to reader’s views (example: fake news)
 - **Fake comments and shares**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
 
