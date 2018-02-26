@@ -211,6 +211,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- Especially valuable in laudatory personal profiles
 	- In leaks, who could have leaked it and what was their motive? What important information might be unleaked?
 - When a PR-like piece is shared ([A24 in GQ](https://www.gq.com/story/a24-studio-oral-history), IBM Watson, a laudatory profile) , ask what the covered party’s motivation is to get the word out now (recruiting, sales, corporate branding)
+- Distinguish between guest written or sponsored pieces, and something written by the staff
 - Read *[All the News That’s Fit to Sell](https://www.amazon.com/All-News-Thats-Fit-Sell/dp/0691123675/ref=sr_1_1)* (Stanford Professor James Hamilton) and *[Public Opinion](https://en.wikipedia.org/wiki/Public_Opinion_(book))* (Walter Lippmann) for more on how events are turned into news
 
 ## Fellow engineers
