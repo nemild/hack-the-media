@@ -178,7 +178,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 - **Selective Leaking**: Leak something to a journalist that reflects unfavorably on your competitor, allowing it to receive more credibility than if sourced back to your company (example: [Speculation of New England Patriots leak](https://www.nytimes.com/2018/01/14/sports/football/patriots-tom-brady-belichick.html), politics on any given day)
 - **Pay to place**: Pay journalist/writer directly to place a piece (example: [HuffPo/Forbes/etc](https://news.ycombinator.com/item?id=16182576))
 - **Pay others to place**: Pay for PR firm to place (example: [Syria’s Asma al-Assad’s team pays $5k for help getting a favorable Vogue article](https://www.theatlantic.com/international/archive/2012/01/the-only-remaining-online-copy-of-vogues-asma-al-assad-profile/250753/))
-- **Pre-written Articles**: Write a press release that is easy for a journalist to publish without modification
+- **Pre-written Articles**: Write a press release that is easy for a journalist to publish without modification  (example: [my experience in East Timor](https://www.nemil.com/musings/hack-an-engineer.html#timor-leste))
 
 **Other Issues**
 
@@ -190,13 +190,13 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
 - **Access**: Journalists trade favorable coverage for access/tips; businesses favor journalists that "toe the line"
-  - Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (example: [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html))
+  - Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (example: [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html), [Michael Arrington trying to interview Tron cryptocurrency founder](https://twitter.com/arrington/status/969414440062877696?s=12))
   - Hard to get access in first place with many "A-listers", unless they have something to sell
 - Journalists try to:
 	- maintain good source relationships (e.g., investors) and access for future information
 	- manage substantial story deadlines with limited time (example: [Paul Graham’s post on maximizing PR and importance of making stories easy for journalists](http://www.paulgraham.com/submarine.html))
 	- show strong engagement metrics to ensure job security (Example: [Greta Van Susteren at MSNBC](https://www.nytimes.com/2017/06/29/business/media/greta-van-susteren-leaving-msnbc-after-only-six-months.html))
-	- Can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html))
+	- Can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html)) (there are obviously much worse things that happen to journalists, and my focus is in tech reporting)
 	- use “three’s a trend” as common heuristic, despite the fact that this would be laughable to most statisticians (example: [Great Clown Scare of 2016](https://www.nytimes.com/2016/09/13/insider/on-the-creepy-clown-beat-you-really-cant-make-this-stuff-up.html))
 	- (sometimes) keep a future career path open to the technology sector
 
