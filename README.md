@@ -162,6 +162,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 > “So how should entrepreneurs use this knowledge that is being imparted by VCs …? Well first and foremost, you should see it as content marketing… That doesn’t mean it isn’t useful or insightful. It may well be. But you should understand the business model supporting all of this free content. *It is being generated to get you to come visit that VC and offer them to participate in your Seed or Series A round.* That blog post that Joe claimed is not scripture in his tweet is actually an _advertisement_. Kind of the opposite of scripture, right?” ([link](http://avc.com/2016/08/understanding-vcs/))
 
 ## Tech blogs and top media publications
+
 **How it works**
 
 - Trained (and untrained) journalists research various topics and work with editors to publish on blogs and print news
@@ -190,20 +191,21 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
 - **Access**: Journalists trade favorable coverage for access/tips; businesses favor journalists that "toe the line"
-  - Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (example: [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html), [Michael Arrington trying to interview Tron cryptocurrency founder](https://twitter.com/arrington/status/969414440062877696?s=12))
-  - Hard to get access in first place with many "A-listers", unless they have something to sell
+  - Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (examples: [EA  and Steve Hogarty](https://twitter.com/misterbrilliant/status/483224360418041856), [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html), [Michael Arrington trying to interview Tron cryptocurrency founder](https://twitter.com/arrington/status/969414440062877696?s=12))
+  - Hard to get access in first place with many "A-listers", unless they have something to sell; these "A-listers" often also actively shop for journalists who will be an ally
 - Journalists try to:
 	- maintain good source relationships (e.g., investors) and access for future information
 	- manage substantial story deadlines with limited time (example: [Paul Graham’s post on maximizing PR and importance of making stories easy for journalists](http://www.paulgraham.com/submarine.html))
 	- show strong engagement metrics to ensure job security (Example: [Greta Van Susteren at MSNBC](https://www.nytimes.com/2017/06/29/business/media/greta-van-susteren-leaving-msnbc-after-only-six-months.html))
-	- Can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html)) (there are obviously much worse things that happen to journalists, and my focus is in tech reporting)
-	- use “three’s a trend” as common heuristic, despite the fact that this would be laughable to most statisticians (example: [Great Clown Scare of 2016](https://www.nytimes.com/2016/09/13/insider/on-the-creepy-clown-beat-you-really-cant-make-this-stuff-up.html))
+	- can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html)) (there are obviously much worse things that happen to journalists, and my focus is in tech reporting)
+	- use “three’s a trend” as common heuristic, despite the fact that this would be laughable to most statisticians (example: [Great Clown Scare of 2016](https://www.nytimes.com/2016/09/13/insider/on-the-creepy-clown-beat-you-really-cant-make-this-stuff-up.html), [anecdotes vs data](https://twitter.com/trengriffin/status/948366029058535424))
 	- (sometimes) keep a future career path open to the technology sector
 
 **Potential antibodies**
 
 - When something is heavily covered, it is substantially due to large reader interest — not due to the importance of the event for you; risk of confirmation bias and sampling bias if you don’t adjust signal
 	- Paul Graham: “The number of news stories about a problem is not a sign of how serious it is, but of how much demand there is for stories claiming so” ([link](https://twitter.com/paulg/status/888496117159276545))
+	- Tren Griffin: "The journalistic formula of 2018 so far seems to be: I found a few bat shit crazy people in region X doing Y. Therefore the practice of doing Y is widespread in that region X. A few anecdotes are not data establishing something is a widespread practice." ([link](https://twitter.com/trengriffin/status/948366029058535424))
 	- My research on death coverage in the NY Times and risk assessment ([link](https://www.nemil.com/s/part3-horror-films.html))
 - Realize vivid stories are powerful for user engagement, while lots of drier data and stories that inform good decisions are less monetizable (example: [Shooting of Australian in US - and needs/pre-existing beliefs of Australian readers](https://www.nytimes.com/2017/07/22/us/minneapolis-police-shooting.html))
 - Dig into technical background of writer
