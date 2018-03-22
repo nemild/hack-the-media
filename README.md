@@ -41,6 +41,7 @@ These are common content strategies that technical organizations can use to infl
 
 - **Selective facts (intentional)**: Share partial facts with your followers (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view) (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Fake News**: False content that comport to reader’s views (example: fake news)
+- **Glurge**:  False content that aims to "inspire" readers; as they don't specifically advocate for a political position, they tend to avoid as much scrunity as "fake news" does (example: [Snopes' page on "glurge"](https://www.snopes.com/fact-check/category/glurge-gallery/))
 - **Fake comments and shares**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
 
 *Other Issues*
