@@ -14,11 +14,15 @@ Contributions are welcome (see our [guidelines](contributing.md)). Follow me on 
   - What is the technical background of the writer? A surprising number of people with little subject matter expertise have strong opinions on highly technical topics
   - Why is the media distributor (social network, news organization) putting this piece of content in front of me? How do they benefit from having me see this content?
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
-	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype (read about [Cecil the Lion's coverage](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html), or [even the US coverage of the war in Yemen](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html) to see what stories sell to an American audience)
+	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype (read about [Cecil the Lion's coverage](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html), or [the US coverage of the war in Yemen](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html) to see what stories sell to an American audience)
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear
 	- This is a key reason for so much content about hyped topics like blockchains, AI, or the latest frontend framework (journalists/editors share similarities with entrepreneurs/VCs in that they're in aggregate providing coverage of and investing in the stories [the market wants](http://www.paulgraham.com/good.html))
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
 - **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see many cryptocurrency communities). Leads you to a deeply flawed view of other side, which you need to consciously correct for by favoring moderate voices on the "other" side. Also suggests that algorithms need to chase more than outrage and engagement
+- **The Power of Narrative**: Humans generally value stories with a certain narrative arc (e.g., good vs evil); Hollywood writers and journalists face similar incentives to cater to this demand
+  - For deciding what war to cover in America, value to "[an emotionally engaging frame of clearly identifiable good guys and bad guys](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html)" that can be pitched to an audience
+  - Other example: The rise and fall of blood testing startup Theranos in media coverage
+  - This approach is substantially at odds with what a dispassionate observer would choose to cover when making the best personal and societal decisions
 - **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media that justifies their parochial views; they do this by encouraging content that supports their views and paying scientists/engineers to support these views
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
@@ -30,7 +34,7 @@ These are common content strategies that technical organizations can use to infl
 - Write derivative content on hyped topics, as you know there’s a huge market that already wants to read this (examples: blockchains, NoSQL, microservices)
   - Hype is a function of reader interest, but often says little about engineering appropriateness
 - Support others who write seemingly tangential content that supports the need for your product (example: containerization companies and microservices)
-- Write something controversial that you don’t really fully believe
+- Write something controversial that you don’t fully believe
   - Controversial posts engage partisans and evoke vitriol (“engagement”) on the other side in social media, which is the fuel to get something widely discussed
 
 ### Sources and Hacks
@@ -48,7 +52,7 @@ These are common content strategies that technical organizations can use to infl
 
 *Other Issues*
 
-- **Selective facts (unintentional)**: Algorithms favor factual coverage that only shows part of the picture, as this maximizes engagement; key issue with relying on likeminded friends to dictate content
+- **Selective facts (unintentional)**: Algorithms favor factual coverage that only shows part of the picture, as this maximizes engagement; key issue with relying on likeminded friends and algorithms that focuses primarily on engagement to dictate content
 - **Extreme “other”**: Lack of empathy for other side, as more relevant to see the most extreme actions of the other side and ignore the poor actions of the most extreme people on your side (example: [CIA deaths versus limited coverage in US of CIA actions elsewhere](https://www.nytimes.com/2017/05/20/world/asia/china-cia-spies-espionage.html), [one cryptocurrency subreddit’s view on another](https://twitter.com/FEhrsam/status/892429946550837248))
 - **Clickbait**: Decision of clickworthiness made on title alone, leading to incentives for clickworthy titles and easily explained content
 
@@ -66,15 +70,15 @@ These are common content strategies that technical organizations can use to infl
 
 **Example hacks**
 
-- **Upvoting Ring**: Asking your friends and supporters to upvote (common in dev tool companies, training programs, incubators); this can work despite countermeasures that social networks undertake
+- **Upvoting Ring**: Asking your friends and supporters to upvote (common in dev tool companies, training programs, incubators); this can work despite social network countermeasures
 - **Confirmatory Content**: Creating content that justifies pre-existing views or financial incentives of subreddit holders; see what popular views are before, and ape them (example: [cryptocurrency subreddits](https://twitter.com/fehrsam/status/892429946550837248) that promote their own currency, and discredit competing currencies)
 
 **Other issues**
 
+- **Tribalism**: Tribal behavior by key influencers can determine how certain topics are received (example: Though HN was quite negative to MongoDB, what would the reaction been if MongoDB was a Y Combinator company?, [How does one cryptocurrency subreddit approach another](https://twitter.com/FEhrsam/status/892430348285427713)?)
 - **No more experts**: No distinction for experts versus others; one layman has the same voting power as the world’s most thoughtful expert (Example: a non-engineer vs. the world’s most thoughtful database expert on MongoDB posts); readers may also not take the time to understand background/expertise of writer
 - **Militant Minority**: Upvoting and posting community is likely small compared to readers, providing lots of power to a small group of motivated users; motivated users are often people who personally benefit from post
 - **Different Needs**: Ideal tools for one group/use case don’t map to another group/use case, even though both share the same social network (Example: frontend engineer’s database preferences for a hackathon vs. backend engineer’s database preferences for production, [TDD and the needs of consultants](https://news.ycombinator.com/item?id=14664311))
-- **Tribalism**: Tribal behavior by key influencers can determine how certain topics are received (example: Though HN was quite negative to MongoDB, what would the reaction been if MongoDB was a Y Combinator company?, [How does one cryptocurrency subreddit approach another](https://twitter.com/FEhrsam/status/892430348285427713)?)
 
 #### *Facebook and Twitter Feeds*
 
@@ -88,8 +92,7 @@ These are common content strategies that technical organizations can use to infl
 
 - **Confirmation Bias**: Extreme degree of confirmation bias
 	- We click on content that justifies our individual views without interacting with the full body of research on a topic; newsfeed algorithms see these choices and give us more of the same
-	- Gives us an irrational confidence that we know what is “reality”, because all evidence we see justifies a certain view - and the only opposing side that breaks through is the most extreme voices
-	- May easily dismiss valid opposing viewpoints
+	- Gives us an irrational confidence that we know what is “reality”, because all evidence we see justifies a certain view - and the only opposing side that breaks through is the most extreme, outrageous voices that can be easily dismissed
 
 **Potential Antibodies**
 
@@ -209,7 +212,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - When something is heavily covered, it is substantially due to large reader interest — not due to the importance of the event for you; risk of confirmation bias and sampling bias if you don’t adjust signal
 	- Paul Graham: “The number of news stories about a problem is not a sign of how serious it is, but of how much demand there is for stories claiming so” ([link](https://twitter.com/paulg/status/888496117159276545))
-	- Tren Griffin: "The journalistic formula of 2018 so far seems to be: I found a few bat shit crazy people in region X doing Y. Therefore the practice of doing Y is widespread in that region X. A few anecdotes are not data establishing something is a widespread practice." ([link](https://twitter.com/trengriffin/status/948366029058535424))
+	- Tren Griffin: "The journalistic formula of 2018 so far seems to be: *I found a few bat shit crazy people in region X doing Y. Therefore the practice of doing Y is widespread in that region X.* A few anecdotes are not data establishing something is a widespread practice." ([link](https://twitter.com/trengriffin/status/948366029058535424))
 	- My research on death coverage in the NY Times and risk assessment ([link](https://www.nemil.com/s/part3-horror-films.html))
 - Realize vivid stories are powerful for user engagement, while lots of drier data and stories that inform good decisions are less monetizable (example: [Shooting of Australian in US - and needs/pre-existing beliefs of Australian readers](https://www.nytimes.com/2017/07/22/us/minneapolis-police-shooting.html))
 - Dig into technical background of writer
