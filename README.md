@@ -4,13 +4,15 @@ There are many ways to “hack” software engineers by influencing media source
 
 This document collects examples of intentional and unintentional hacks of software engineering information sources like Hacker News, Reddit, and tech blogs. The hope is to unbias these sources and provide antibodies to engineers so that they can make better personal and team decisions. (For more background, see this [introductory essay](https://www.nemil.com/musings/hack-an-engineer.html))
 
-Contributions are welcome (see our [guidelines](contributing.md)).
+While this is targeted at engineers, many of the examples and lessons here apply to anyone who uses media to make decisions or understand what's going on around them.
+
+Contributions are welcome (see our [guidelines](contributing.md)). Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
 ### General Notes
 - Key questions to ask with any media:
   - Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
   - What is the technical background of the writer? A surprising number of people with little subject matter expertise have strong opinions on highly technical topics
-  - Why is the media distributor (social network, news organization) putting this piece of content in front of me?
+  - Why is the media distributor (social network, news organization) putting this piece of content in front of me? How do they benefit from having me see this content?
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype (read about [Cecil the Lion's coverage](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html), or [even the US coverage of the war in Yemen](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html) to see what stories sell to an American audience)
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear
@@ -27,7 +29,7 @@ These are common content strategies that technical organizations can use to infl
   - Argue something is the future and what’s used now is old and anachronistic; especially powerful on junior developers (example: [“modern web development”, MongoDB coining the term “post-transactional future”](https://www.nemil.com/mongo/3.html))
 - Write derivative content on hyped topics, as you know there’s a huge market that already wants to read this (examples: blockchains, NoSQL, microservices)
   - Hype is a function of reader interest, but often says little about engineering appropriateness
-- Support others who write seemingly tangential content that supports the need for your product (example: containerization and microservices)
+- Support others who write seemingly tangential content that supports the need for your product (example: containerization companies and microservices)
 - Write something controversial that you don’t really fully believe
   - Controversial posts engage partisans and evoke vitriol (“engagement”) on the other side in social media, which is the fuel to get something widely discussed
 
@@ -42,7 +44,7 @@ These are common content strategies that technical organizations can use to infl
 - **Selective facts (intentional)**: Share partial facts with your followers (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view) (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Fake News**: False content that comport to reader’s views (example: fake news)
 - **Glurge**:  False content that aims to "inspire" readers; as they don't specifically advocate for a political position, they tend to avoid as much scrunity as "fake news" does (example: [Snopes' page on "glurge"](https://www.snopes.com/fact-check/category/glurge-gallery/))
-- **Fake comments and shares**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
+- **Astroturfing**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
 
 *Other Issues*
 
@@ -190,7 +192,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
 	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
-- *Getting past PR*: Steered by PR in certain direction and sometimes implicitly threatened (example: [public relations, marketing and advertising at Theranos](https://californiahealthline.org/news/reporters-notebook-the-tale-of-theranos-and-the-mysterious-fire-alarm/) )
+- **Getting past PR**: Steered by PR in certain direction and sometimes implicitly threatened (example: [public relations, marketing and advertising at Theranos](https://californiahealthline.org/news/reporters-notebook-the-tale-of-theranos-and-the-mysterious-fire-alarm/) )
 - **Talent**: Salary in journalism is a fraction of tech industry, meaning that many experienced, smart journalists increasingly leave or work in house
 - **Access**: Journalists trade favorable coverage for access/tips; businesses favor journalists that "toe the line"
   - Companies/investors can control access to their companies, dictating the rules that journalists must follow to get exclusives and scoops; can cut off access to influence future coverage (examples: [EA  and Steve Hogarty](https://twitter.com/misterbrilliant/status/483224360418041856), [Coverage of the British Monarchy](https://www.nytimes.com/2018/01/14/arts/television/queen-coronation-bbc-smithsonian.html), [Disney and the LA Times](https://boingboing.net/2017/11/05/bob-iger-vs-the-press.html), [Liz Smith and Celebrity journalism](https://mobile.nytimes.com/2017/07/28/nyregion/liz-smith-lions-of-new-york.html), [Michael Arrington trying to interview Tron cryptocurrency founder](https://twitter.com/arrington/status/969414440062877696?s=12))
