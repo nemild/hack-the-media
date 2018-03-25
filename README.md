@@ -236,6 +236,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - Give them a monetizable business model, so that they’ll represent your views (example: [MongoDB consultants who then speak favorably about MongoDB](http://web.archive.org/web/20120724115659/http://meghangill.com/2012/06/25/how-to-run-a-tech-conference-part-4-finding-speakers/))
 - Give them equity in the success of your business — increasing the likelihood they’ll speak positively of you and, at minimum, reducing the likelihood they can publicly say negative things about you (example: [cryptocurrency ownership](https://twitter.com/fehrsam/status/892429946550837248), open source developer equity grant)
+- Establish your expertise in one topic so that you have people's attention. Once you have their attention, express your views on another topic that you have no expertise in
 
 **Other Issues**
 
