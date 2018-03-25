@@ -13,6 +13,7 @@ Contributions are welcome (see our [guidelines](contributing.md)). Follow me on 
   - Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
   - What is the technical background of the writer? A surprising number of people with little subject matter expertise have strong opinions on highly technical topics
   - Why is the media distributor (social network, news organization) putting this piece of content in front of me? How do they benefit from having me see this content?
+  - Do I "need to know" this topic that this content is covering? Would investigating this topic be a productive use of my time, or could I use this time investigating other topics? Not knowing could cause you to have a parochial view of the world, but knowing could lead to you being hacked
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype (read about [Cecil the Lion's coverage](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html), or [the US coverage of the war in Yemen](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html) to see what stories sell to an American audience)
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear
@@ -23,6 +24,7 @@ Contributions are welcome (see our [guidelines](contributing.md)). Follow me on 
   - For deciding what war to cover in America, value to "[an emotionally engaging frame of clearly identifiable good guys and bad guys](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html)" that can be pitched to an audience
   - Other example: The rise and fall of blood testing startup Theranos in media coverage
   - This approach is substantially at odds with what a dispassionate observer would choose to cover when making the best personal and societal decisions
+- **Attention Economy**: All media sources are in constant competition against each other for the 'attention' of their audience, in the hopes that they can later exploit that attention (examples: branding, propaganda, donation solicitation, ad monetization). Attention is a very scarce commodity (only 24 hours in a day), so the competition for your eyeballs can reach a fever pitch.
 - **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media that justifies their parochial views; they do this by encouraging content that supports their views and paying scientists/engineers to support these views
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
@@ -47,7 +49,7 @@ These are common content strategies that technical organizations can use to infl
 
 - **Selective facts (intentional)**: Share partial facts with your followers (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view) (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Fake News**: False content that comport to reader’s views (example: fake news)
-- **Glurge**:  False content that aims to "inspire" readers; as they don't specifically advocate for a political position, they tend to avoid as much scrunity as "fake news" does (example: [Snopes' page on "glurge"](https://www.snopes.com/fact-check/category/glurge-gallery/))
+- **Glurge**:  False content that aims to "inspire" readers; as they don't advocate for a political position, they tend to avoid as much scrunity as "fake news" (example: [Snopes' page on "glurge"](https://www.snopes.com/fact-check/category/glurge-gallery/))
 - **Astroturfing**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
 
 *Other Issues*
@@ -156,7 +158,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - Lots of content marketing passes for journalism
 - Need to write content on widely read topics to maximize readership; leads to an echo chamber of hype around new technologies since these have been validated to be of interest
-
+- Content is expensive to produce (and the costs of creating more effective content is only increasing), so only those with the resources and exposure are the ones most likely to present the content to you. For more information, please read ["Content Shock: Why content marketing is not a sustainable strategy"](https://www.businessesgrow.com/2014/01/06/content-shock/)
 
 **Potential Antibodies**
 
@@ -234,6 +236,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - Give them a monetizable business model, so that they’ll represent your views (example: [MongoDB consultants who then speak favorably about MongoDB](http://web.archive.org/web/20120724115659/http://meghangill.com/2012/06/25/how-to-run-a-tech-conference-part-4-finding-speakers/))
 - Give them equity in the success of your business — increasing the likelihood they’ll speak positively of you and, at minimum, reducing the likelihood they can publicly say negative things about you (example: [cryptocurrency ownership](https://twitter.com/fehrsam/status/892429946550837248), open source developer equity grant)
+- Establish your expertise in one topic so that you have people's attention. Once you have their attention, express your views on another topic that you have no expertise in
 
 **Other Issues**
 
