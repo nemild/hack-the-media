@@ -158,7 +158,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - Lots of content marketing passes for journalism
 - Need to write content on widely read topics to maximize readership; leads to an echo chamber of hype around new technologies since these have been validated to be of interest
-- Content is expensive to produce, so only those with the resources and exposure are the ones most likely to present the content to you
+- Content is expensive to produce (and the costs of creating more effective content is only increasing), so only those with the resources and exposure are the ones most likely to present the content to you. For more information, please read ["Content Shock: Why content marketing is not a sustainable strategy"](https://www.businessesgrow.com/2014/01/06/content-shock/)
 
 **Potential Antibodies**
 
