@@ -23,7 +23,7 @@ Contributions are welcome (see our [guidelines](contributing.md)). Follow me on 
   - For deciding what war to cover in America, value to "[an emotionally engaging frame of clearly identifiable good guys and bad guys](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html)" that can be pitched to an audience
   - Other example: The rise and fall of blood testing startup Theranos in media coverage
   - This approach is substantially at odds with what a dispassionate observer would choose to cover when making the best personal and societal decisions
-- **Attention Economy**: All media sources are in constant competition against each other for the 'attention' of their audience, in the hopes that they can later exploit that attention (examples: branding, propaganda, donation solicitation, ad monetization). Your attention itself could be transferred to a third party through the use of ads (native or otherwise) or backlinks. Attention is a very scarce commodity (only 24 hours in a day), so the competition for your eyeballs can reach a fever pitch.
+- **Attention Economy**: All media sources are in constant competition against each other for the 'attention' of their audience, in the hopes that they can later exploit that attention (examples: branding, propaganda, donation solicitation, ad monetization). Attention is a very scarce commodity (only 24 hours in a day), so the competition for your eyeballs can reach a fever pitch.
 - **Fact Distortion Field**: Motivated parties often create a "fact distortion field" in media that justifies their parochial views; they do this by encouraging content that supports their views and paying scientists/engineers to support these views
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
@@ -48,7 +48,7 @@ These are common content strategies that technical organizations can use to infl
 
 - **Selective facts (intentional)**: Share partial facts with your followers (i.e., factual coverage that only shows part of the picture - and conveniently ignores facts that don't support a pre-existing view) (Example: Partisan news organizations, competing cryptocurrency projects; for more background, see [my article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Fake News**: False content that comport to reader’s views (example: fake news)
-- **Glurge**:  False content that aims to "inspire" readers; as they don't specifically advocate for a political position, they tend to avoid as much scrunity as "fake news" does (example: [Snopes' page on "glurge"](https://www.snopes.com/fact-check/category/glurge-gallery/))
+- **Glurge**:  False content that aims to "inspire" readers; as they don't advocate for a political position, they tend to avoid as much scrunity as "fake news" (example: [Snopes' page on "glurge"](https://www.snopes.com/fact-check/category/glurge-gallery/))
 - **Astroturfing**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html))
 
 *Other Issues*
@@ -157,7 +157,6 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - Lots of content marketing passes for journalism
 - Need to write content on widely read topics to maximize readership; leads to an echo chamber of hype around new technologies since these have been validated to be of interest
-
 
 **Potential Antibodies**
 
