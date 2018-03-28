@@ -149,6 +149,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 - Create “valuable” content that doesn’t look like an ad; is apt to get engagement and influence engineer behavior (examples: uptake a dev tool platform, enroll in a training program, join a company, use an open source package)
 - Popular reasons for content marketing: increase domain SEO (example: [Yummly](http://firstround.com/review/the-seo-tips-that-helped-tally-20-million-visits-a-month/), [Nerdwallet](https://outrunseo.com/how-nerdwallet-built-a-520-million-company-using-a-content-based-seo-strategy/)), collect sales leads, sell product/service, recruit engineers, improve brand
 - Content can be created in house, or relatively small amounts of funding can encourage others to create the content needed (example: [Pusher’s technical tutorial solicitation](https://pusher.com/guest-writer-program))
+- Content marketing applies far beyond online posts, including categories like whitepapers to handouts in college/grad school classes
 
 **Example Hacks**
 
@@ -157,12 +158,13 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 **Other Issues**
 
 - Lots of content marketing passes for journalism
+- University/grad school reading can be content marketing (At one top business school, a professor confided to me that the smartest move for many CEOs was to push for business school case studies that biased students to want to join their companies; these case studies would often read like a fawning profile)
 - Need to write content on widely read topics to maximize readership; leads to an echo chamber of hype around new technologies since these have been validated to be of interest
 - Content is expensive to produce (and the costs of creating more effective content is only increasing), so only those with the resources and exposure are the ones most likely to present the content to you. For more information, please read ["Content Shock: Why content marketing is not a sustainable strategy"](https://www.businessesgrow.com/2014/01/06/content-shock/)
 
 **Potential Antibodies**
 
-- Have to be able to identify when something is content marketing
+- Have to be able to identify when something is content marketing in everything from online posts to school curriculums
 - Ask what is motivation of writer and how this influences their view; also need to understand their technical background
 - Use content marketing to learn, but use it with proper skepticism
 	- Fred Wilson, Partner Union Square Ventures:
