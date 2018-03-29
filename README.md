@@ -19,7 +19,7 @@ Contributions are welcome (see our [guidelines](contributing.md)). Follow me on 
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear
 	- This is a key reason for so much content about hyped topics like blockchains, AI, or the latest frontend framework (journalists/editors share similarities with entrepreneurs/VCs in that they're - in aggregate - providing coverage of and investing in the stories [the market wants](http://www.paulgraham.com/good.html))
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
-- **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see many cryptocurrency communities, the defensiveness of employees who work at social media giants). Leads you to a deeply flawed view of other side, which you need to consciously correct for by favoring moderate voices on the "other" side. Also suggests that algorithms need to chase more than outrage and engagement
+- **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see many cryptocurrency communities). Leads you to a deeply flawed view, which you need to consciously correct for by favoring moderate voices on the "other" side. Also suggests that algorithms need to chase more than outrage and engagement (this is a key reason for filter bubbles, see the WSJ's [Red Feed vs Blue Feed](http://graphics.wsj.com/blue-feed-red-feed/))
 - **The Power of Narrative**: Humans generally value stories with a certain narrative arc (e.g., good vs evil); Hollywood writers and journalists face similar incentives to cater to this demand
   - For deciding what war to cover in America, value to "[an emotionally engaging frame of clearly identifiable good guys and bad guys](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html)" that can be pitched to an audience
   - Other example: The rise and fall of blood testing startup Theranos in media coverage
@@ -73,6 +73,7 @@ These are common content strategies that technical organizations can use to infl
 **Example hacks**
 
 - **Upvoting Ring**: Asking your friends and supporters to upvote (common in dev tool companies, training programs, incubators); this can work despite social network countermeasures
+- **Allied Commenters**: Get your allies to be the first commenters (which your friends will then upvote and bubbe to the top), subtly shaping the views of everyone who reads the content
 - **Confirmatory Content**: Creating content that justifies pre-existing views or financial incentives of subreddit holders; see what popular views are before, and ape them (example: [cryptocurrency subreddits](https://twitter.com/fehrsam/status/892429946550837248) that promote their own currency, and discredit competing currencies)
 
 **Other issues**
