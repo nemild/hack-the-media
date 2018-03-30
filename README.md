@@ -1,4 +1,4 @@
-#https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html Hacking Engineers and Engineering Media
+# Hacking Engineers and Engineering Media
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
@@ -199,7 +199,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- Coverage is a function of reader interest; fundamental problem with using media to make decisions
 		- What’s covered is not the same as what’s important for the decisions we make each day
 		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
-		- Journalists will say they're covering important, "newsworthy" stories. Social media product designers will say they're surfacing "relevant" content. Instead, both are ways to surface the content readers want to read - and what is profitable for the media organization. (some journalists often won't realize when there is a difference between "newsworthy" and "the facts to make good decisions")
+		- Journalists will say they're covering important, "newsworthy" stories. Social media product designers will say they're surfacing "relevant" content. Instead, both techniques surface the content readers want to read - and what is profitable for the media organization. (most journalists don't have the luxury to distinguish between "newsworthy" and the facts their readers need for good decisions)
 	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Getting past PR**: PR steers journalists in favored directions and sometimes implicitly threatens things journalists value like access to a CEO (example: [public relations, marketing and advertising at Theranos](https://californiahealthline.org/news/reporters-notebook-the-tale-of-theranos-and-the-mysterious-fire-alarm/) )
