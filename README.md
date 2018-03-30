@@ -1,4 +1,4 @@
-# Hacking Engineers and Engineering Media
+#https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html Hacking Engineers and Engineering Media
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
@@ -16,8 +16,9 @@ Contributions are welcome (see our [guidelines](contributing.md)). Follow me on 
   - Do I "need to know" this topic that this content is covering? Would investigating this topic be a productive use of my time, or could I use this time investigating other topics? Not knowing could cause you to have a parochial view of the world, but knowing could lead to you being hacked
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype (read about [Cecil the Lion's coverage](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html), or [the US coverage of the war in Yemen](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html) to see what stories sell to an American audience)
-	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear
+	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear; the "invisible hand of the reader" dictates what content is created and distributed
 	- This is a key reason for so much content about hyped topics like blockchains, AI, or the latest frontend framework (journalists/editors share similarities with entrepreneurs/VCs in that they're - in aggregate - providing coverage of and investing in the stories [the market wants](http://www.paulgraham.com/good.html))
+	- Journalists often feel they're focusing on facts their readers need, without realizing the base incentive is to surface "newsworthy" content (i.e., that which is most likely to get readers and make revenue)
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
 - **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see many cryptocurrency communities). Leads you to a deeply flawed view, which you need to consciously correct for by favoring moderate voices on the "other" side. Also suggests that algorithms need to chase more than outrage and engagement (this is a key reason for filter bubbles, see the WSJ's [Red Feed vs Blue Feed](http://graphics.wsj.com/blue-feed-red-feed/))
 - **The Power of Narrative**: Humans generally value stories with a certain narrative arc (e.g., good vs evil); Hollywood writers and journalists face similar incentives to cater to this demand
@@ -73,7 +74,7 @@ These are common content strategies that technical organizations can use to infl
 **Example hacks**
 
 - **Upvoting Ring**: Asking your friends and supporters to upvote (common in dev tool companies, training programs, incubators); this can work despite social network countermeasures
-- **Allied Commenters**: Get your allies to be the first commenters (which your friends will then upvote and bubbe to the top), subtly shaping the views of everyone who reads the content
+- **Allied Commenters**: Get your allies to be the first commenters (which your friends will then upvote and bubble to the top), subtly shaping the views of everyone who reads the content
 - **Confirmatory Content**: Creating content that justifies pre-existing views or financial incentives of subreddit holders; see what popular views are before, and ape them (example: [cryptocurrency subreddits](https://twitter.com/fehrsam/status/892429946550837248) that promote their own currency, and discredit competing currencies)
 
 **Other issues**
@@ -198,6 +199,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- Coverage is a function of reader interest; fundamental problem with using media to make decisions
 		- What’s covered is not the same as what’s important for the decisions we make each day
 		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
+		- Journalists will say they're covering important, "newsworthy" stories. Social media product designers will say they're surfacing "relevant" content. Instead, both are ways to surface the content readers want to read - and what is profitable for the media organization. (some journalists often won't realize when there is a difference between "newsworthy" and "the facts to make good decisions")
 	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
 - **Technical Competence**: Many journalists don’t have a technical or business background, but write on these topics authoritatively
 - **Getting past PR**: PR steers journalists in favored directions and sometimes implicitly threatens things journalists value like access to a CEO (example: [public relations, marketing and advertising at Theranos](https://californiahealthline.org/news/reporters-notebook-the-tale-of-theranos-and-the-mysterious-fire-alarm/) )
@@ -212,6 +214,12 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html)) (there are obviously much worse things that happen to journalists, and my focus is in tech reporting)
 	- use “three’s a trend” as common heuristic, despite the fact that this would be laughable to most statisticians (example: [Great Clown Scare of 2016](https://www.nytimes.com/2016/09/13/insider/on-the-creepy-clown-beat-you-really-cant-make-this-stuff-up.html), [anecdotes vs data](https://twitter.com/trengriffin/status/948366029058535424))
 	- (sometimes) keep a future career path open to the technology sector
+- **Media frenzy**: A singular event is reported, and a frenzy of media coverage ensues on stories that fit this narrative (Example: [Facebook and Cambridge Analytica](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html) -> Facebook’s general role in society, [WSJ story about Theranos](https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901) -> Theranos firestorm)
+  - The precipitating event:
+    - validates that readers/viewers care about this issue and that for news editors there are impressions and profits to be made (see [Cecil the Lion’s coverage at the Washington Post](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html) to see the thought process for one editor about what to cover)
+    - encourages insiders/critics to leak more information — and search for receptive journalists looking for this (example: one journalist searching for [more leaks](https://twitter.com/RMac18/status/979506451893821440) after the FB/Cambridge Analytica issues)
+    - makes journalists invest more in this topic, uncovering new issues (this also has a risk of confirmation bias, where stories are reported that fit the narrative; those that don’t are poorly reported, deemed un-newsworthy, or simply ignored by the audience)
+  - Targeted groups (startup founders, employees of a company, a politician) get deeply defensive, since a media frenzy is often not fair. These targeted groups fixate on the stories that are inaccurate or unfair. This then (inappropriately) leads them to dismiss most criticism, even those that a thoughtful observer would consider a fair critique.
 
 **Potential antibodies**
 
