@@ -1,4 +1,5 @@
 # Hacking Engineers and Engineering Media
+![Puppet cutting it's string](https://www.nemil.com/musings/images/puppet-1.0.png)
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
