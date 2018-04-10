@@ -1,5 +1,9 @@
 # Hacking Engineers and Engineering Media
-![Puppet cutting it's string](https://www.nemil.com/musings/images/puppet-1.0.png)
+
+![Puppet cutting it's string - Male](https://www.nemil.com/musings/images/puppet-1.0.png) ![Puppet cutting it's string - Female](https://www.nemil.com/musings/images/puppet-2.png)
+
+<small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](http://eepurl.com/cxs5Zr) — original SVGs are [here](https://www.nemil.com/musings/images/boy-eng-puppet.svg) and [here](https://www.nemil.com/musings/images/girl-eng-puppet.svg).*</small>
+
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
@@ -7,7 +11,7 @@ This document collects examples of intentional and unintentional hacks of softwa
 
 While this is targeted at engineers, many of the examples and lessons here apply to anyone who uses media to make decisions or understand what's going on around them.
 
-Contributions are welcome (see our [guidelines](contributing.md)). Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
+Contributions are welcome (see our [guidelines](contributions.md)). Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
 ### General Notes
 - Key questions to ask with any media:
@@ -40,6 +44,29 @@ These are common content strategies that technical organizations can use to infl
 - Support others who write seemingly tangential content that supports the need for your product (example: containerization companies and microservices)
 - Write something controversial that you don’t fully believe
   - Controversial posts engage partisans and evoke vitriol (“engagement”) on the other side in social media, which is the fuel to get something widely discussed
+
+### Common Players in the Engineering Ecosystem and Their Incentives
+
+#### Venture Capitalists (VCs)
+
+- **Key goals**: Source and win deals, market their portfolio companies
+- Create content to show themselves as thought leaders and paint their portfolio companies in the best light
+- Have a difficult time critiquing entrepreneurs, as they need to seem founder friendly as they compete for deals
+- Function as a powerful ally for their portfolio companies, but also means you should critically weigh their messaging
+
+#### Dev Tool Companies
+
+- **Key goals**: Get uptake for their tools
+- Sponsor content that justifies their tools; can be direct justification - or indirect (e.g., containerization companies and the push for microservices)
+- May push their tools as the future, while suggesting that existing tools are anachronistic
+
+
+#### Training Programs
+
+- **Key goals**: sell classes/content
+- Push new technology as new technology has less existing content - and often enables higher pricing for training programs
+- Ally for motivated dev tool vendors, as both financially benefit from having engineers uptake newer dev tools
+
 
 ### Sources and Hacks
 ## Social Media
