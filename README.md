@@ -143,6 +143,7 @@ These are common content strategies that technical organizations can use to infl
 
 This example shares a lot of similarities with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader") and distributed on social networks.
 
+- Avoid trolls (see prettydiff's [great guide](https://github.com/prettydiff/wisdom/blob/master/Avoiding_Trolls.md))
 - Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap); applies in engineering communities, but also across religions and countries
 	- Noah Smith: “There are always a handful of people out there doing any stupid, crazy, or annoying thing you can imagine. And the media has an incentive to find those people and shove their excesses in your face.” ([link](https://twitter.com/noahpinion/status/934837949404811264)); social media algorithms especially value these extreme events, as they help them maximize engagement
 	- My research on Islamic terrorism coverage in the NY Times vs non-Islamic terrorism and homicides ([link](https://www.nemil.com/s/part2-terrorism.html))
