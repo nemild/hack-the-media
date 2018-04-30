@@ -164,6 +164,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 
 - **Sponsor speaker**: For companies, support a speaker unaffiliated with your company who you think will be likely to represent your view
 - **Organize your own conference**: Run your own conference to ensure your own viewpoint is widely shared — and then shared widely online afterward by participants (Example: [MongoDB funding for conferences and user groups](https://www.nemil.com/mongo/3.html))
+- Advertise the list of invited speakers, not actual speakers (Example: [Crypto Health Summit Global Conference Series](https://twitter.com/ljxie/status/990407284957179905))
 
 **Other issues**
 
@@ -253,6 +254,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- have a bias to cover subjects (entrepreneurs, companies, technologies) that will “make the world a better place” — as this is an affirming message their readers value; motivates parties that want to be covered to stress these elements, no matter how unrealistic this sounds or how unclear their impact is (examples: [Theranos's early media message and fawning coverage](https://www.vanityfair.com/news/2016/05/theranos-silicon-valley-media))
 	- cover events less as they become more common, even though that may not be right for the best decision making (example: [shooting deaths vs terrorism deaths in the US](https://www.theguardian.com/commentisfree/2015/nov/18/deaths-paris-beirut-media))
 	- (sometimes) keep a future career path open to the technology sector
+	- (though this may seem critical of journalists, it is primarily critical of the readership and financial incentives faced by many journalists)
 - **Media frenzy**: A singular event is reported, and a frenzy of media coverage ensues on stories that fit this narrative (Example: [Facebook and Cambridge Analytica](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html) -> Facebook is bad, [WSJ story about Theranos](https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901) -> Theranos firestorm)
   - The precipitating event:
     - validates that readers/viewers care about this issue and that for news editors there are impressions and profits to be made (see [Cecil the Lion’s coverage at the Washington Post](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html) to see the thought process for one editor about what to cover)
