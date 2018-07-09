@@ -40,6 +40,8 @@ Contributions are welcome (see our [guidelines](contributions.md)). Follow me on
 
 (The rejoinder is that many unsexy businesses change the world after many years of hard work - even if they may look dumb at first)
 - **Attention Economy**: All media sources are in constant competition against each other for the 'attention' of their audience, in the hopes that they can later exploit that attention (examples: branding, propaganda, donation solicitation, ad monetization). Attention is a very scarce commodity (only 24 hours in a day), so the competition for your eyeballs can reach a fever pitch.
+  - John Stankey, chief executive of Warner Media:
+> I want more hours of engagement. Why are more hours of engagement important? Because you get more data and information about a customer that then allows you to do things like monetize through alternate models of advertising as well as subscriptions ... ([link](https://www.nytimes.com/2018/07/08/business/media/hbo-att-merger.html?hpw&rref=business&action=click&pgtype=Homepage&module=well-region&region=bottom-well&WT.nav=bottom-well))
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
 
 ### Content Playbook
