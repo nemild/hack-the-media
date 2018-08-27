@@ -14,11 +14,16 @@ This guide lists examples how software engineering information sources like Hack
 For more, see my introductory essay: [**How To Hack an Engineer**](https://www.nemil.com/musings/hack-an-engineer.html)
 
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
-	
-### General Notes
+
+## Examples of Hacks
+- **Paying an open source developer without disclosure**: A cryptocurrency company gives equity to a key developer on a leading cryptocurrency — and privately boasts that this will give them a say on the roadmap and help influence the development team. The open source developer doesn’t publicly disclose this link (Background: see my introduction [here](https://www.nemil.com/musings/hack-an-engineer.html))
+- **MongoDB-funded User Groups, Conferences, Hackathons**: MongoDB funds its own user groups and college hackathons, making them look like organic support over time. For meetups and conferences, it recruits speakers by understanding their financial and speaking incentives (e.g., selling their consulting services, marketing their company). (Background: [The Marketing Behind MongoDB](https://www.nemil.com/mongo/3.html))
+- **Training Programs**: The seller of a GraphQL training course on PluralSight [writes a Free Code Camp blog post](https://news.ycombinator.com/item?id=14839576) extolling how GraphQL is the future, and REST is anachronistic and dead (*[Rest in Peace. Long Live GraphQL](https://medium.freecodecamp.org/rest-apis-are-rest-in-peace-apis-long-live-graphql-d412e559d8e4)*). The head of Free Code Camp submits/upvotes the post on HN. (See my [HN Comment](https://news.ycombinator.com/item?id=14840321))
+
+## General Notes
 - Key questions to ask with any media:
   - **Why Writing**: Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
-   - **Technical Background of Writer**: What is the technical background of the writer? A surprising number of people with little subject matter expertise have strong opinions on highly technical topics. Many great engineers don't have time to write — or enjoy spending their time writing code
+   - **Technical Background of Writer**: What is the technical background of the writer? A surprising number of people with little subject matter expertise have strong opinions on highly technical topics. Many great engineers don't have time to write — or enjoy spending their time writing code. And even great engineers can strongly opine on a part of the stack they know little about
   - **Distributor Incentives and Community**: Why is the media distributor (social network, news organization) putting this piece of content in front of me? How do they benefit from having me see this content? What is the prejudices of the community (i.e., HN) that determines what gets covered and how?
 - **Motivations for Content Generators**: Know the key stakeholders who produce content in tech and *what they each want from you*
 	- **Venture Capitalists**: Want you to approach them for funding — and aim to help their portfolio companies
@@ -27,15 +32,14 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 	- **Dev Tool Vendors**: Want you buy their dev tools
 	- **Tech Companies**: Want you to join them
 	- **Conferences**: Want you to attend their conference and buy from their vendors/speakers
-- **Hype**: When a new technology/tool is widely covered, it is often because this elicits substantial reader interest; use wide coverage to understand what content readers are demanding, NOT simly as a sign that something is important or a fundamental shift
-- **Understand issues with Hacker News/Reddit**: Given how often HN is read by engineers, understand the key issues with Hacker News/Reddit (see more below)
+- **Hype**: When a new technology/tool is widely covered, it is often because this elicits substantial reader interest; use wide coverage to understand what content readers are demanding, NOT simply as a sign that something is important or a fundamental shift
+- **Understand issues with Hacker News/Reddit**: Given how often HN is read by engineers, understand the key issues with Hacker News/Reddit (see more [below](#user-content-hacker-newsreddit))
 	- **Downside of Democracy**: The world's most thoughtful expert has the same voting power as someone who knows nothing about the subject
-	- **Power of a passionate few**: A passionate few determine what makes it to the front page; these passionate few often have their own reasons for this content to be widely read
-	- **Prevalence of content marketing**: A surprising amount of HN posts are content marketing; these get upvotes because a passionate minority has incentives to upvote these posts. Be critical
+	- **Power of a passionate few**: A passionate few determine what makes it to the front page; these passionate few often have their own reasons for this content to be widely read (company they are part of, common incubator program)
+	- **Prevalence of content marketing**: A surprising amount of HN posts are content marketing; these get upvotes because a passionate minority has incentives to upvote these posts
 - **Identify content marketing**: A substantial portion of content read by engineers is content marketing: content created for the purpose of having you do something in the writer's interest. While useful, you should be able to identify content marketing — and what self serving messages you're hearing
 - **Know the incentives behind tech media**: Most tech blogs make money from ads and conferences. This means that they have to optimize page views, which incentivizes hype, sensationalism, and click bait. They also have ensure that important speakers want to speak at their conference — and so can't be too critical of important industry players (like CEOs, VC firms, top companies).
 - **Building antibodies**: Scientists and engineers deeply benefit from getting things “right” in their job; to do the best job, critical for us to identify ways our data sources are influenced — and how to partially unbias them
-
 
 ## The Tech Ecosystem
 ### Common Players in the Engineering Ecosystem and Their Incentives
@@ -73,21 +77,22 @@ These are common content strategies used to influence engineers to adopt a new t
 ## Hacker News/Reddit
 **Example Hacks**
 
-- **Upvoting Ring**: Asking your friends and supporters to upvote (common in dev tool companies, training programs, incubators); this can work despite social network countermeasures
+- **Upvoting Ring**: Ask your friends and supporters to upvote (common in dev tool companies, training programs, incubators); this can work despite social network countermeasures
 - **Allied Commenters**: Get your allies to be the first commenters (which your friends will then upvote and bubble to the top), subtly shaping the views of everyone who reads the content
-- **Confirmatory Content**: Creating content that justifies pre-existing views or financial incentives of subreddit holders; see what popular views are before, and ape them (example: [cryptocurrency subreddits](https://twitter.com/fehrsam/status/892429946550837248) that promote their own currency, and discredit competing currencies)
+- **Confirmatory Content**: Create content that justifies pre-existing views or financial incentives of subreddit holders; see what popular views are before, and ape them (example: [cryptocurrency subreddits](https://twitter.com/fehrsam/status/892429946550837248) that promote their own currency, and discredit/ignore positive information about competing currencies)
 
 **Other Issues**
 
 - **Tribalism**: Tribal behavior by key influencers can determine how certain topics are received (example: Though HN was quite negative to MongoDB, what would the reaction have been if MongoDB was a Y Combinator company?, [How does one cryptocurrency subreddit approach another](https://twitter.com/FEhrsam/status/892430348285427713)?)
 - **No more experts**: No distinction for experts versus others; one layman has the same voting power as the world’s most thoughtful expert (Example: a non-engineer vs. the world’s most thoughtful database expert on MongoDB posts); readers may also not take the time to understand background/expertise of writer
 - **Different Needs**: Ideal tools for one group/use case don’t map to another group/use case, even though both share the same social network (Example: frontend engineer’s database preferences for a hackathon vs. backend engineer’s database preferences for production, [TDD and the needs of consultants](https://news.ycombinator.com/item?id=14664311))
-- **Commingling of engineers**: Frontend engineers, backend engineers, sys admins, and many others commingle on the same site; they often have wildly different needs, but when solutions are discussed they often don't indicate in which contexts they make sense
-- **Differential Opinions Mini-Community of Commenters**: Many posts have their own particular community of commenters, distinct from the broader community (e.g., a post on a Ruby gem attracts commenters who largely like Ruby, not the average HN reader); hard to speak as if "HN thinks ..." given these micro-communities
-
+- **Differential Opinions Mini-Community of Commenters**: There isn’t always a monolithic statement like “HN believes ...”; different posts can attract wholly different tribes in the comments, meaning HN is hundreds of sub-groups.
+	- A post on a Ruby gem, might attract an entire commenter group who are Ruby-ists that hold common views on opposing languages. You might see this as "HN believes X", but instead it's the subset of people attracted by that post that readers are in fact interacting with (see my response underneath the top comment [here])
 
 **Potential Antibodies**
 
+- Think of Hacker News as a bazaar — with many voices clamoring to get your attention to achieve their own particular objectives (i.e., for you to join their company, purchase their software/consulting services, use their open source tool)
+- Avoid trolls (see prettydiff's [great guide](https://github.com/prettydiff/wisdom/blob/master/Avoiding_Trolls.md))
 - For more on Hacker News, see [A List of Hacker News's Undocumented Features and Behaviors](https://github.com/minimaxir/hacker-news-undocumented)
 
 
@@ -204,3 +209,9 @@ These are common content strategies used to influence engineers to adopt a new t
 - Question funding and incentives of anyone speaking favorably about a chosen technology
 - Just because someone has a well regarded reputation (e.g., through open source contributions, through previous well regarded projects) doesn’t mean they can’t be representing parochial incentives that are at odds with what is right for you
 - Like with all written media, you have to understand the incentives of a speaker/social media poster
+
+## Ways You Can Help
+- **Experiment with a new HN algorithm/incentives system **: Create your own Hacker News algorithm/system that favors content that helps engineers make better decisions
+- **Board of Engineers for eng media publications**: Ask the leaders of popular tech blogs for early engineers (such as Free Code Camp and Hacker Noon) to have a board of engineers who vet content before it is published
+- **Add eng media literacy to eng training programs**: Encourage bootcamps and college CS programs to teach engineering media literacy
+- *Other ideas?*

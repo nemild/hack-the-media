@@ -11,7 +11,7 @@ A media literacy guide that highlights ways that our media sources can give us a
 ### Background
 There are many ways for motivated parties to “hack” humans by influencing their media sources and fellow community members.
 
-This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies to us all. (This originally started as a media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.md)).
+This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies to us all. (This originally started as a general media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.md)).
 
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
@@ -24,7 +24,7 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 	- Editors and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias, filter bubbles, and technical hype (read about [Cecil the Lion's coverage](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html), or [the US coverage of the war in Yemen](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html) to see what stories sell to an American audience)
 	- Journalists are under immense pressure by media owners and investors to provide content that is highly read/watched/shared and therefore most profitable (see this [hilarious video clip](https://www.youtube.com/watch?t=8m38s&v=bq2_wSsDwkQ) of Sam Zell, former CEO of Tribune)
 	- Journalists focus on "newsworthy" content, which many believe is the content their audience __needs__ [to make good decisions](https://www.reuters.com/article/rpb-adlertrump/covering-trump-the-reuters-way-idUSKBN15F276). Instead, newsworthy media is what their audience __wants__ to consume (and is also most read and most profitable for their publication)
-	- Rather than thinking of news as mirror of what’s going on in the world, think of it as mirror of what people want to read/hear; this "invisible hand of the reader" dictates what content is created and how well it will be distributed
+	- Rather than thinking of news as mirror of what’s going on in the world, think of it as *mirror of what people want to read/hear*; this "invisible hand of the reader" dictates what content is created and how well it will be distributed
 - **Selective facts are everywhere**: Selective facts are “true” facts that only tells us part of the story. Partisan news and social media algorithms give us the facts that confirm our beliefs and purposefully exclude important facts that give us the full picture (for more, see my [article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
 - **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see many cryptocurrency communities). Newsfeed algorithms and friendship-based social graphs encode this bias based on the user choices they see.
@@ -111,6 +111,8 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 
 **Potential Antibodies**
 
+- **Engagement is not reality**: Realize that media sources (both content creators and distributors, like social networks) focus on maximizing "engaging" content; this is often extreme or outrageous events, and don't give you a good sense for what is really going on
+
 - **Wants vs Needs**: Social feed algorithms focus on user "wants", but huge value to determining your "needs"
 
 - Realize huge degree of confirmation bias on Twitter/Facebook — and echo chambers in every social network
@@ -121,11 +123,10 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 This example shares a lot of similarities with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader") and distributed on social networks.
 
 - Avoid trolls (see prettydiff's [great guide](https://github.com/prettydiff/wisdom/blob/master/Avoiding_Trolls.md))
-- Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap); applies also across religions and countries
+- Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap); applies also across religions, countries, and political tribes
 	- Noah Smith: “There are always a handful of people out there doing any stupid, crazy, or annoying thing you can imagine. And the media has an incentive to find those people and shove their excesses in your face.” ([link](https://twitter.com/noahpinion/status/934837949404811264)); social media algorithms especially value these extreme events, as they help them maximize engagement
 	- My research on death coverage in the NY Times ([part 1](https://www.nemil.com/s/part2-terrorism.html), [part 2](https://www.nemil.com/s/part3-horror-films.html)):
-![New York Times Coverage of Terrorism and Homicides](https://www.nemil.com/s/images/figure6.png)
-
+![NY Times Terrorism Coverage vs. Deaths](https://www.nemil.com/s/images/image00.png)
 
 ## Journalism
 
@@ -156,7 +157,9 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- Coverage is a function of reader interest; fundamental problem with using media to make decisions
 		- What’s covered is not the same as what’s important for the decisions we make each day, though the latter is a key purpose of journalism
 		- Journalists will say they're covering important, "newsworthy" stories. Social media product designers will say they're surfacing "relevant" content. Both techniques surface the content readers want to read - and what is profitable for the media organization. (most journalists don't have the luxury to distinguish between "newsworthy" and the facts their readers need for good decisions)
-		- Focus on newsworthiness and relevance leads to substantial “sampling bias”
+		- Focus on newsworthiness and relevance leads to substantial “sampling bias.” An old journalistic saying is "If it bleed, it leads." Even though they don't give you a representative view of what's going on in the world, vivid deaths get the most engagement from readers and attract an audience:
+![New York Times Coverage of Terrorism and Homicides](https://www.nemil.com/s/images/figure6.png)
+
 	- Opportunity to create fake content that meets reader interest (example: [Jim Cramer talking about how easy it is to create fake news that Apple’s original iPhone isn’t selling well](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2), allowing him to profit off a fall in the stock price, 2016 US Election)
 - **Getting past PR**: PR steers journalists in favored directions and sometimes implicitly threatens things journalists value like access to a CEO (example: [public relations, marketing and advertising at Theranos](https://californiahealthline.org/news/reporters-notebook-the-tale-of-theranos-and-the-mysterious-fire-alarm/) )
 - **Access**: Some journalists may trade favorable coverage for access/tips; businesses/politicians favor journalists that "toe the line"
