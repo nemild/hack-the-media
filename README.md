@@ -1,7 +1,7 @@
 # Hacking Media
 ### tl;dr
 
-A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (technology industry-specific media guide now [here](software-engineers-media-guide.html)).
+A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (technology industry-specific media guide now [here](software-engineers-media-guide.md)).
 
 
 ![Puppet cutting it's string - Male](https://www.nemil.com/musings/images/puppet-1.0.png) ![Puppet cutting it's string - Female](https://www.nemil.com/musings/images/puppet-2.png)
@@ -11,7 +11,7 @@ A media literacy guide that highlights ways that our media sources can give us a
 ### Background
 There are many ways for motivated parties to “hack” humans by influencing their media sources and fellow community members.
 
-This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies to us all. (This originally started as a media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.html)).
+This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies to us all. (This originally started as a media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.md)).
 
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
@@ -48,7 +48,7 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 
 
 
-### Sources and Hacks
+### Media Sources and Hacks
 ## Social Media
 
 
@@ -121,7 +121,7 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 This example shares a lot of similarities with [publication bias](https://en.wikipedia.org/wiki/Publication_bias) in the sciences. Reader interest influences what content is produced ("the invisible hand of the reader") and distributed on social networks.
 
 - Avoid trolls (see prettydiff's [great guide](https://github.com/prettydiff/wisdom/blob/master/Avoiding_Trolls.md))
-- Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap); applies in engineering communities, but also across religions and countries
+- Realize it is newsworthy/relevant to see the excesses of the opposite side, but not very newsworthy/relevant to see excesses of your side (leads to empathy gap); applies also across religions and countries
 	- Noah Smith: “There are always a handful of people out there doing any stupid, crazy, or annoying thing you can imagine. And the media has an incentive to find those people and shove their excesses in your face.” ([link](https://twitter.com/noahpinion/status/934837949404811264)); social media algorithms especially value these extreme events, as they help them maximize engagement
 	- My research on death coverage in the NY Times ([part 1](https://www.nemil.com/s/part2-terrorism.html), [part 2](https://www.nemil.com/s/part3-horror-films.html)):
 ![New York Times Coverage of Terrorism and Homicides](https://www.nemil.com/s/images/figure6.png)
@@ -178,10 +178,10 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 - **Media frenzy**: A singular event is reported, and a frenzy of media coverage ensues on stories that fit this narrative (Example: [Facebook and Cambridge Analytica](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html) -> Facebook is bad, [WSJ story about Theranos](https://www.wsj.com/articles/theranos-has-struggled-with-blood-tests-1444881901) -> Theranos firestorm)
   - The precipitating event:
 
-   - validates that readers/viewers care about this issue and that for news editors there are impressions and profits to be made (see [Cecil the Lion’s coverage at the Washington Post](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html) to see the thought process for one editor about what to cover)
-    - encourages insiders/critics to leak more information — and search for receptive journalists looking for this (example: one journalist searching for [more leaks](https://twitter.com/RMac18/status/979506451893821440) after the FB/Cambridge Analytica issues)
-    - makes journalists invest more in this topic, uncovering new issues (this also has a risk of confirmation bias, where stories are reported that fit the narrative, see [previous FB example](https://twitter.com/josephfcox/status/981563571904622592); those that don’t are poorly reported, deemed un-newsworthy, or simply ignored by the audience)
-  - Targeted groups (startup founders, employees of a company, a politician) get deeply defensive, since a media frenzy is not always fair. These targeted groups fixate on the stories that are inaccurate or unfair. This then (inappropriately) leads them to dismiss most criticism, even those that a thoughtful observer would consider a fair critique.
+		- validates that readers/viewers care about this issue and that for news editors there are impressions and profits to be made (see [Cecil the Lion’s coverage at the Washington Post](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html) to see the thought process for one editor about what to cover)
+    	- encourages insiders/critics to leak more information — and search for receptive journalists looking for this (example: one journalist searching for [more leaks](https://twitter.com/RMac18/status/979506451893821440) after the FB/Cambridge Analytica issues)
+    	- makes journalists invest more in this topic, uncovering new issues (this also has a risk of confirmation bias, where stories are reported that fit the narrative, see [previous FB example](https://twitter.com/josephfcox/status/981563571904622592); those that don’t are poorly reported, deemed un-newsworthy, or simply ignored by the audience)
+    	- Targeted groups (startup founders, employees of a company, a politician) get deeply defensive, since a media frenzy is not always fair. These targeted groups fixate on the stories that are inaccurate or unfair. This then (inappropriately) leads them to dismiss most criticism, even those that a thoughtful observer would consider a fair critique.
 
 **Potential antibodies**
 
@@ -189,9 +189,9 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- Paul Graham: “The number of news stories about a problem is not a sign of how serious it is, but of how much demand there is for stories claiming so” ([link](https://twitter.com/paulg/status/888496117159276545))
 	- Tren Griffin: "The journalistic formula of 2018 so far seems to be: *I found a few bat shit crazy people in region X doing Y. Therefore the practice of doing Y is widespread in that region X.* A few anecdotes are not data establishing something is a widespread practice." ([link](https://twitter.com/trengriffin/status/948366029058535424))
 	- My research on death coverage in the NY Times and risk assessment ([link](https://www.nemil.com/s/part3-horror-films.html))
-- Realize vivid stories are powerful for user engagement, while lots of drier data and stories that inform good decisions are less monetizable (example: [Shooting of Australian in US - and needs/pre-existing beliefs of Australian readers](https://www.nytimes.com/2017/07/22/us/minneapolis-police-shooting.html))
+- Realize vivid stories are powerful for user engagement, while lots of drier data and stories that inform good decisions are less monetizable (example: [Shooting of Australian in US - and media needs/pre-existing views of Australian readers](https://www.nytimes.com/2017/07/22/us/minneapolis-police-shooting.html))
 - When you see something covered, ask yourself who is motivated to have it covered this way
-	- Especially valuable in laudatory personal profiles
+	- Especially valuable in laudatory profiles on a company or person
 	- In leaks, who could have leaked it and what was their motive? What important information might be unleaked?
 - When a PR-like piece is shared ([A24 in GQ](https://www.gq.com/story/a24-studio-oral-history), IBM Watson, a laudatory profile) , ask what the covered party’s motivation is to get the word out now (recruiting, sales, corporate branding)
 - Distinguish between guest written or sponsored pieces, and something written by the staff
