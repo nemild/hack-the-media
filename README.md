@@ -1,4 +1,4 @@
-# Hacking Media
+# Hack the Media
 ### tl;dr
 
 A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (technology industry-specific media guide now [here](software-engineers-media-guide.md)).
@@ -28,9 +28,9 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 - **Selective facts are everywhere**: Selective facts are “true” facts that only tells us part of the story. Partisan news and social media algorithms give us the facts that confirm our beliefs and purposefully exclude important facts that give us the full picture (for more, see my [article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
 - **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see many cryptocurrency communities). Newsfeed algorithms and friendship-based social graphs encode this bias based on the user choices they see.
-  - Leads you to a deeply flawed view, which you need to consciously correct for by favoring moderate voices on the "other" side.
+  - Leads you to a deeply flawed view, which you need to consciously correct for by favoring moderate voices on the "other" side
   - Also suggests that algorithms need to chase more than outrage and engagement (this is a key reason for filter bubbles, see the WSJ's [Red Feed vs Blue Feed](http://graphics.wsj.com/blue-feed-red-feed/) or the reason [why terrorist attacks in the Middle East won't be well covered in the West](https://www.theguardian.com/commentisfree/2016/mar/25/nothing-wrong-mourning-brussels-not-beirut))
-  - For more, see the SMBC Comic [How Internet Fighting Works](https://www.smbc-comics.com/comic/2013-04-07)
+  - "[The extremes are screaming while the center whispers](https://techcrunch.com/2018/08/27/graphika-visualizes-twitters-filter-bubbles-in-the-us/)"; for more, see the SMBC Comic [How Internet Fighting Works](https://www.smbc-comics.com/comic/2013-04-07)
   
 - **Access and the Turning Journalism into PR**: Journalists are sometimes incentivized or subtly threatened to write positively about select topics, as one tech journalist writes:
  

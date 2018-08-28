@@ -9,7 +9,7 @@ A media literacy guide for software engineers (general media literacy guide [her
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
 
-This guide lists examples how software engineering information sources like Hacker News, Reddit, and tech blogs can be influenced - or otherwise how these platforms can give you a flawed view of the world. The hope is to unbias these sources and provide antibodies to us all. (This guide covers examples often specific to the tech industry, with the general media literacy guide now [here](README.md)) 
+This guide lists examples how software engineering information sources like Hacker News, Reddit, and tech blogs can be influenced - and how these platforms can otherwise give you a flawed view of the world. The hope is to unbias these sources and provide antibodies to us all. (This guide covers examples often specific to the tech industry, with the general media literacy guide now [here](README.md)) 
 
 For more, see my introductory essay: [**How To Hack an Engineer**](https://www.nemil.com/musings/hack-an-engineer.html)
 
