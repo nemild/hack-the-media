@@ -32,7 +32,8 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 	- **Consulting Shops**: Want you to buy their services — or come work for them
 	- **Dev Tool Vendors**: Want you buy their dev tools
 	- **Tech Companies**: Want you to join them
-	- **Conferences**: Want you to attend their conference and buy from their vendors/speakers
+	- **Conference Organizers**: Want you to attend their conference and buy from their vendors/speakers
+	- 	**Conference Speakers**: Want to pitch their company's products, build their brand/network, recruit engineers
 - **Hype**: When a new technology/tool is widely covered, it is often because this elicits substantial reader interest; use wide coverage to understand what content readers are demanding, NOT simply as a sign that something is important or a fundamental shift
 - **Understand issues with Hacker News/Reddit**: Given how often HN is read by engineers, understand the key issues with Hacker News/Reddit (see more [below](#user-content-hacker-newsreddit))
 	- **Downside of Democracy**: The world's most thoughtful expert has the same voting power as someone who knows nothing about the subject
@@ -64,6 +65,12 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 - **Key goals**: Sell classes/content
 - Push new technology which their paid training programs then teach you about
 - Ally for motivated dev tool vendors, as both financially benefit from having engineers uptake newer dev tools
+
+#### Conference Organizers
+
+- **Key goals**: Fill a conference and attract sponsors by attracting speakers
+- When media organizations run conferences, they often will shy away from attacking important potential speakers and their companies
+
 
 ### Content Playbook
 These are common content strategies used to influence engineers to adopt a new technology:
