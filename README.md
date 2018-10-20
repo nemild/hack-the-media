@@ -80,7 +80,7 @@ The *”junk food”* of the media industry evokes our base emotions, and is the
 
 >  Our plan will be to promote the feel-good activity and news from the event. Comments that are positive will be liked and possibly shared. Comments that are derogatory and/or abusive will be hidden from public view. Commenter receives no notification this hiding has happened.
 
-- **Astroturfing**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html), [ICIT Think Tank](https://www.buzzfeednews.com/article/craigsilverman/icit-james-scott-think-tank-fake-twitter-youtube)); or incentivezed posts look like organic content (Example: [Tobacco companies and incentivized social media posts](https://www.nytimes.com/2018/08/24/health/tobacco-social-media-smoking.html))
+- **Astroturfing**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html), [ICIT Think Tank](https://www.buzzfeednews.com/article/craigsilverman/icit-james-scott-think-tank-fake-twitter-youtube)), [Saudi Arabia's Troll Farm on Twitter](https://www.nytimes.com/2018/10/20/us/politics/saudi-image-campaign-twitter.html); or incentivezed posts look like organic content (Example: [Tobacco companies and incentivized social media posts](https://www.nytimes.com/2018/08/24/health/tobacco-social-media-smoking.html))
 
 *Other Issues*
 
