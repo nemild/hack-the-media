@@ -1,7 +1,7 @@
 # Hack the Media
 ### tl;dr
 
-A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (technology industry-specific media guide now [here](software-engineers-media-guide.md)).
+A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (technology industry-specific media guide now [here](software-engineers-media-guide.md) and financial media guide [here](financial-media-guide.md)).
 
 
 ![Puppet cutting it's string - Male](https://www.nemil.com/musings/images/male-puppet-small.png) ![Puppet cutting it's string - Female](https://www.nemil.com/musings/images/female-puppet-small.png)
@@ -11,7 +11,7 @@ A media literacy guide that highlights ways that our media sources can give us a
 ### Background
 There are many ways for motivated parties to “hack” humans by influencing their media sources and fellow community members.
 
-This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies to us all. (This originally started as a general media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.md)).
+This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies to us all. (This originally started as a general media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.md); there is also a media guide specific to financial media coverage [here](financial-media-guide.md)).
 
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
