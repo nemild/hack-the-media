@@ -136,7 +136,7 @@ These are common content strategies used to influence engineers to adopt a new t
 
 **Example Hacks**
 
-- **Pay to place**: Pay journalist/writer directly to place a piece (example: [HuffPo/Forbes/etc](https://news.ycombinator.com/item?id=16182576))
+- **Pay to place**: Pay journalist/writer directly to place a piece (example: [paying crypto news outlets](https://breakermag.com/we-asked-crypto-news-outlets-if-theyd-take-money-to-cover-a-project-more-than-half-said-yes/), [HuffPo/Forbes/etc](https://news.ycombinator.com/item?id=16182576))
 - **Pay others to place**: Pay for PR firm to place (example: [Paul Graham's essay on the PR Industry](http://www.paulgraham.com/submarine.html), [Syria’s Asma al-Assad’s team pays $5k for help getting a favorable Vogue article](https://www.theatlantic.com/international/archive/2012/01/the-only-remaining-online-copy-of-vogues-asma-al-assad-profile/250753/))
 - **Pre-written Articles**: Write a press release that is easy for a journalist to publish without modification  (example: [my experience in East Timor](https://www.nemil.com/musings/hack-an-engineer.html#timor-leste))
 

@@ -9,7 +9,7 @@ There are many ways for motivated parties to “hack” investors by influencing
 
 This document collects examples of intentional and unintentional hacks of financial media. If financial media is a primary input into investing decisions (e.g., for many retail investors), you will make poor investment decisions.
 
-The hope with this guide is to provide some antibodies to investors. (This originally started as a broader media guide, now collected [here](README.md)).
+The hope with this guide is to provide some antibodies to investors. (*This originally started as a broader media guide, now collected [here](README.md)*).
 
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
@@ -24,9 +24,10 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 	- Commentators tailor their shows/articles to increase eyeballs, not what is the most important information for investors
 	- Large price increases and drops are newsworthy, while many more important events are not; this gives you a biased data set from which to make financial decisions
 	- Example (Ryan Selkis):
+
 > My new show "get rich slowly, build things, and encourage caution and temperance in crypto" was dropped from all the major financial media networks. ([link](https://twitter.com/twobitidiot/status/999264845169086465?s=12))
 
-	- Example (The Daily Show):
+Example (The Daily Show):
 
 > Jon Stewart: “What ...is the role for CNBC? … There were literally shows called Fast Money.”
 > 
