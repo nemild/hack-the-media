@@ -1,12 +1,12 @@
 # Hack the Media
 ### tl;dr
 
-A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (also there is a [technology industry-specific media guide](software-engineers-media-guide.md) and a [financial media guide](financial-media-guide.md)).
+A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (there is also a [technology industry media guide](software-engineers-media-guide.md) and a [financial media guide](financial-media-guide.md)).
 
 
 ![Puppet cutting it's string - Male](https://www.nemil.com/musings/images/male-puppet-small.png) ![Puppet cutting it's string - Female](https://www.nemil.com/musings/images/female-puppet-small.png)
 
-<small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](http://eepurl.com/cxs5Zr) — original SVGs are [here](https://www.nemil.com/musings/images/boy-eng-puppet.svg)) and [here](https://www.nemil.com/musings/images/girl-eng-puppet.svg).*</small>
+<small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](http://eepurl.com/cxs5Zr) — original SVGs are [here](https://www.nemil.com/musings/images/boy-eng-puppet.svg) and [here](https://www.nemil.com/musings/images/girl-eng-puppet.svg).*</small>
 
 ### Background
 There are many ways for motivated parties to “hack” humans by influencing their media sources and fellow community members.
@@ -15,11 +15,27 @@ This document collects examples of intentional and unintentional hacks of media.
 
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
-### General Notes
-- Key questions to ask with any media:
+### Suggestions
+The purpose of this guide is to explain how media works and let readers make their own changes.
+
+Still, I'll make some simple, but opinionated suggestions:
+
+- **Reduce your daily consumption of news** in newspapers, TV, and social media
+	- Ezra Taft Benson: "One must select wisely a source of news; otherwise it would be better to be uninformed than misinformed." ([link](https://quoteinvestigator.com/2016/12/03/misinformed/))
+	- Subscribe to short newsletters or weekly magazines that make it harder for you to "browse"; these are less susceptible to click-bait and these organization depend less on the engagement of each single article they write
+- **Use social media carefully and sparingly**
+	- Algorithms (the Facebook/Twitter feeds or YouTube autoplays) aim to keep us engaged because this leads to the most ad revenue
+	- Many of the posts we read are shared by our friends and others who share our beliefs; this gives us a selective view of the world (and is a form of segregation)
+	- At minimum, realize that social media is not a mirror what's going on in the world, but a carefully curated set of events meant to engage you
+- **Follow thoughtful voices that disagree with you**, rather than using the most extreme voices to understand the other side
+- **Keep an open mind**, as the full set of facts we need to have informed opinions are often not engaging enough for media sources and social networks to provide us
+- **Ask certain key questions** with any media you consume:
   - Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
   - Why is the media distributor (social network, news organization) putting this piece of content in front of me? How do they benefit from having me see this content?
   - Do I "need to know" this topic that this content is covering? Would investigating this topic be a productive use of my time, or could I use this time investigating other topics?
+
+
+### General Observations
 - **Reader Interest is King**: When something is heavily covered, it is often due to large reader interest — not due to the importance of the event for you; media sources often focus on what audiences *want* to hear, not what they *need* to hear
 	- Editors, commentators, and especially social media algorithms focus on engagement as it maximizes interest and revenue; also, a key reason for confirmation bias and filter bubbles (read about [Cecil the Lion's coverage](https://www.nytimes.com/2015/08/17/business/where-clicks-reign-audience-is-king.html), or [the US coverage of the war in Yemen](https://www.nytimes.com/2016/10/02/world/why-some-wars-like-syrias-get-more-attention-than-others-like-yemens.html) to see what stories sell to an American audience)
 	- Journalists are under immense pressure by media owners and investors to provide content that is highly read/watched/shared and therefore most profitable (see this [hilarious video clip](https://www.youtube.com/watch?t=8m38s&v=bq2_wSsDwkQ) of Sam Zell, former CEO of Tribune)
@@ -27,7 +43,7 @@ Contributions are welcome (see our [guidelines](contributions.md)), especially w
 	- Rather than thinking of news as mirror of what’s going on in the world, think of it as *mirror of what people want to read/hear*; this "invisible hand of the reader" dictates what content is created and how well it will be distributed
 	- Example:
 
-> Jon Stewart: “What ...is the role for CNBC? … There were literally shows called Fast Money.”
+> Jon Stewart: “What ...is the role for \[financial news network] CNBC? … There were literally shows called *Fast Money*.”
 > 
 >Jim Cramer: "There's a market for it and you give it to them ... I too like you want to have a successful show ...I'm trying to bring in younger people who really don't want to hear about the stuff ..." ([link](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2))
 
