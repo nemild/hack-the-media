@@ -14,8 +14,10 @@ The hope with this guide is to provide some antibodies to investors. (*This orig
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
 ### Key Tips
-- **Engagement**: The primary incentive of financial media is to increase engagement, leading to more eyeballs and therefore profit. The stories media sources cover are often not the information you need to make the best financial decisions.
-- **Identify Partisans**: Nearly everyone interviewed in financial media has their own financial incentive to get you to believe what they say; when assessing their speech, seek to understand their financial motives — rather than thinking of them as a fair minded observer
+
+- **Engagement**: The primary incentive of financial media is to increase engagement, leading to more eyeballs and therefore profit. The stories media sources cover are therefore often not the information you need to make the best financial decisions. 
+- **Beware Trading**: The drive for engagement also encourages excessive trading, even though [substantial](https://academic.oup.com/rfs/article-abstract/22/2/609/1595677) [research](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.2008.01368.x) shows that [active](https://onlinelibrary.wiley.com/doi/abs/10.1111/0022-1082.00226) trading often hurts returns.
+- **Identify Partisans**: Nearly everyone interviewed in financial media has their own financial incentive to get you to believe what they say; when assessing their speech, seek to understand their financial motives — rather than thinking of them as a fair minded observer.
 - **Understand statistics**: Most people — including many financial journalists — don't understand statistics. This means important topics are often covered erroneously.
 
 
@@ -40,7 +42,8 @@ Example (The Daily Show):
 ([link](https://twitter.com/whalepanda/status/1042027228698234881?s=12))
 
 - **Ignoring Risk**: When comparing returns, commentators often conveniently ignore risk either because of ignorance or their desire to create a certain narrative that is more engaging. The easiest way for any investor to increase returns is to increase risk, so to truly compare returns you have to risk adjust them.
-	- Example by CNBC’s CryptoTrader Host:
+	- Cryptocurrency investment fund, Morgan Creek Digital, [bets that cryptocurrencies will *only* outperform the S&P 500 over a decade](https://www.cnbc.com/2018/12/06/crypto-index-fund-follows-buffetts-playbook-but-with-bet-against-the-sp.html) despite the fact the underlying cryptocurrency token have substantially more volatility — and therefore should demand more return
+	- [Example](https://twitter.com/cryptomanran/status/943797901662310400) by CNBC’s CryptoTrader Host, Ran NeuNer:
 
 >Was BTC really king this year?
 >
@@ -49,11 +52,16 @@ Example (The Daily Show):
 > **LTC** returns:     70x,
 > **DASH** returns: 123x
 >
-> If your biggest holding was BTC this year you did not make great great investment decisions. ([link](https://twitter.com/cryptomanran/status/943797901662310400))
+> If your biggest holding was BTC this year you did not make great great investment decisions.
 
-- **Extreme Language**: Articles use extreme language to represent price movements, as these engage readers (e.g., meltdown, bloodbath, crash, [massacre](https://www.express.co.uk/finance/city/914952/Bitcoin-price-crash-cryptocurrency-dollars-market-investors-value-latest-update-news), topple), but are often statistically suspect (For a critique, see  NYTimes Upshot on the [stock market drop in 2018](https://www.nytimes.com/2018/02/05/upshot/context-matters-the-stock-market-drop-is-less-scary-than-it-seems.html) and my [bloodbath tweet](https://twitter.com/nemild/status/953685089329664000))
+- **Filtering history to get maximal engagement today**: Financial media is good at hunting for a specific filter of past events, when it paints the present as extreme; this framing increases engagement, but misses the full context (also known as, [p-hacking](https://en.wikipedia.org/wiki/Data_dredging)).
+	- In December 2018, it was the "Worst December since the Great Depression" as noted by [CNBC](https://www.cnbc.com/2018/12/17/worst-start-to-december-for-the-stock-market-since-great-depression.html), [CNN](https://www.cnn.com/2018/12/18/investing/stocks-worst-december-since-great-depression/index.html), [USA Today](https://www.usatoday.com/story/money/2018/12/21/stock-market-dow-falls-bear/2379114002/), [The Mercury News](https://www.mercurynews.com/2018/12/24/stock-markets-slide-toward-worst-december-since-1931/), and many others. But by most metrics, 2018 was a [fairly typical period](https://www.aqr.com/Insights/Perspectives/Once-More-Without-Feeling).
+	- **Percentages vs Points**: Media sources often quote changes in points rather than percentages. This makes recent changes seem outsize compared to the past (as stocks and indexes grow due to inflation and GDP growth).
+
+- **Extreme Language**: Articles use extreme language to represent price movements, as these engage readers (e.g., meltdown, bloodbath, crash, [massacre](https://www.express.co.uk/finance/city/914952/Bitcoin-price-crash-cryptocurrency-dollars-market-investors-value-latest-update-news), topple), but are often statistically suspect 
+	- For a critique, see  NYTimes Upshot on the [stock market drop in 2018](https://www.nytimes.com/2018/02/05/upshot/context-matters-the-stock-market-drop-is-less-scary-than-it-seems.html) and my [bloodbath tweet](https://twitter.com/nemild/status/953685089329664000).
 - **Journalistic Access and Shopping for Sympathetic Journalists**: Be critical of many interviews done in financial media, given the self interests of those speaking.
-	- The commentators/TV personalities/journalists who talk to the most senior financial leaders often must kowtow to them to get them to appear on their show. 
+	- The commentators/TV personalities/journalists who talk to the most senior financial leaders often must kowtow to them to get them to appear on their show.
 	- Financial leaders also prefer shows that advance their interests, and often won't go on shows that are too critical.
 - **Fake Financial News**: Motivated investors profit by sharing fake news that gets large audience engagement — and moves prices.
 	- Example: Jim Cramer sharing fake news about Apple to engagement-driven media sources, with the goal of dropping Apple’s stock price: 
