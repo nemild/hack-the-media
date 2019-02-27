@@ -221,7 +221,7 @@ These are common content strategies used to influence engineers to adopt a new t
 - Like with all written media, you have to understand the incentives of a speaker/social media poster
 
 ## Ways You Can Help
-- **Experiment with a new HN algorithm/incentives system **: Create your own Hacker News algorithm/system that favors content that helps engineers make better decisions
+- **Experiment with a new HN algorithm/incentives system**: Create your own Hacker News algorithm/system that favors content that helps engineers make better decisions
 - **Board of Engineers for eng media publications**: Ask the leaders of popular tech blogs for early engineers (such as Free Code Camp and Hacker Noon) to have a board of engineers who vet content before it is published
 - **Add eng media literacy to eng training programs**: Encourage bootcamps and college CS programs to teach engineering media literacy
 - *Other ideas?*
