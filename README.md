@@ -1,6 +1,5 @@
 # Hack the Media
 ### tl;dr
-
 A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (there is also a [technology industry media guide](software-engineers-media-guide.md) and a [financial media guide](financial-media-guide.md)).
 
 
@@ -11,7 +10,7 @@ A media literacy guide that highlights ways that our media sources can give us a
 ### Background
 There are many ways for motivated parties to “hack” humans by influencing their media sources and fellow community members.
 
-This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies to us all. (This originally started as a general media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.md); there is also a [media guide specific to financial media coverage](financial-media-guide.md)).
+This document collects examples of intentional and unintentional hacks of media. The hope is to unbias these sources and provide antibodies. (This originally started as a general media guide for software engineers, with lessons specific to the tech industry now collected [here](software-engineers-media-guide.md); there is also a [media guide specific to financial media coverage](financial-media-guide.md)).
 
 Contributions are welcome (see our [guidelines](contributions.md)), especially when they include vivid and relevant examples. Follow me on Twitter ([@nemild](https://twitter.com/nemild)) to see more examples of media manipulation.
 
@@ -22,13 +21,13 @@ Still, I'll make some simple, but opinionated suggestions:
 
 - **Reduce your daily consumption of news** in newspapers, TV, and social media
 	- Ezra Taft Benson: "One must select wisely a source of news; otherwise it would be better to be uninformed than misinformed." ([link](https://quoteinvestigator.com/2016/12/03/misinformed/))
-	- Subscribe to short newsletters or weekly magazines that make it harder for you to "browse"; these are less susceptible to click-bait and these organization depend less on the engagement of each single article they write
+	- Subscribe to short newsletters or weekly magazines that make it harder for you to "browse"; these are less susceptible to click-bait and these organizations depend less on the engagement of each single article they write
 - **Use social media carefully and sparingly**
 	- Algorithms (the Facebook/Twitter feeds or YouTube autoplays) aim to keep us engaged because this leads to the most ad revenue
 	- Many of the posts we read are shared by our friends and others who share our beliefs; this gives us a selective view of the world (and is a form of segregation)
 	- At minimum, realize that social media is not a mirror what's going on in the world, but a carefully curated set of events meant to engage you
 - **Follow thoughtful voices that disagree with you**, rather than using the most extreme voices to understand the other side
-- **Keep an open mind**, as the full set of facts we need to have informed opinions are often not engaging enough for media sources and social networks to provide us
+- **Keep an open mind**, as the full set of facts we need to have informed opinions are often not engaging enough for media sources and social networks to provide us. When you have a deep seated viewpoint, measure it against the most thoughtful dissenting argument NOT the most extreme voice on the other side
 - **Ask certain key questions** with any media you consume:
   - Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
   - Why is the media distributor (social network, news organization) putting this piece of content in front of me? How do they benefit from having me see this content?
@@ -47,8 +46,9 @@ Still, I'll make some simple, but opinionated suggestions:
 > 
 >Jim Cramer: "There's a market for it and you give it to them ... I too like you want to have a successful show ...I'm trying to bring in younger people who really don't want to hear about the stuff ..." ([link](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2))
 
-- **Selective facts are everywhere**: Selective facts are “true” facts that only tells us part of the story. Partisan news and social media algorithms give us the facts that confirm our beliefs and purposefully exclude important facts that give us the full picture (for more, see my [article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
-	- *The newsworthiness of bad news*: When changes happen that have both positive effects and negative effects, the negative effects get greater journalist coverage and distribution in social media, leading to [sampling bias](https://en.wikipedia.org/wiki/Sampling_bias) for readers. (Examples: US federal government shutdown negatively impacts [Washington DC merchants/municipal government](https://www.nytimes.com/2019/01/09/us/government-shutdown-washington-dc-effect.html), BUT excludes savings for US taxpayers or increased business for merchants closer to idled worker homes; when interests rates go up, they don't only slow down the economy - BUT make house prices more affordable; when a global trade war happens, [certain domestic companies lose](https://www.nytimes.com/2018/11/28/magazine/trade-war-tariffs-small-business.html) - BUT other domestic companies may benefit)
+- **Selective facts are everywhere**: Selective facts are “true” facts that only tells us part of the story. For example, some illegal immigrants have killed Americans, while others contribute positively. Partisan news and social media algorithms focus on the facts that confirm our beliefs and purposefully exclude important facts that give us the full picture (see my [article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
+	- *The newsworthiness of bad news vs good news*: When changes happen that have both positive effects and negative effects, the negative effects get much greater coverage because it is more engaging and newsworthy. This is a form of [sampling bias](https://en.wikipedia.org/wiki/Sampling_bias)
+		- Examples: When interests rates go up, they don't only slow down the economy - BUT make house prices more affordable and reduce the risk of inflation; when a global trade war happens, [certain domestic companies lose](https://www.nytimes.com/2018/11/28/magazine/trade-war-tariffs-small-business.html) - BUT other domestic companies may benefit
 - **Issues with Online Democracy**: Social networks algorithms and voting mechanisms generally treat each of us equally, which diminishes how much voice is given to experts; often an issue on deeply technical topics
 - **Empathy Gap**: Media and social media forums often have little empathy for the “other” side, as a given audience prefers to see themselves in the best light — and it is more engaging to see the most easily caricatured/dismissed voices on the other side (see opposing political tribes). Newsfeed algorithms and friendship-based social graphs encode this bias based on the user choices they see. Journalists also create content to cater to this demand.
   - Chinua Achebe [citing an old proverb](https://www.theparisreview.org/interviews/1720/chinua-achebe-the-art-of-fiction-no-139-chinua-achebe): *Until the lions have their own historians, the history of the hunt will always glorify the hunter.*
@@ -94,11 +94,11 @@ The *”junk food”* of the media industry evokes our base emotions, and is the
 - **Fake News**: False content that comport to reader’s views (example: fake news)
 - **Glurge**:  False content that aims to "inspire" readers; as they don't advocate for a political position, they tend to avoid as much scrunity as "fake news" (example: [Snopes' page on "glurge"](https://www.snopes.com/fact-check/category/glurge-gallery/))
 - **Comment Filtering**: When an organization controls the Facebook page or website, comments can be filtered to highlight a favored view
-  - Example at Missouri Electric Cooperatives [link](https://www.documentcloud.org/documents/4452940-Pruitt-Events-a-Look-Behind-the-Scenes.html#document/p34/a422033):
+  - [Example at Missouri Electric Cooperatives](https://www.documentcloud.org/documents/4452940-Pruitt-Events-a-Look-Behind-the-Scenes.html#document/p34/a422033):
 
 >  Our plan will be to promote the feel-good activity and news from the event. Comments that are positive will be liked and possibly shared. Comments that are derogatory and/or abusive will be hidden from public view. Commenter receives no notification this hiding has happened.
 
-- **Astroturfing**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html), [ICIT Think Tank](https://www.buzzfeednews.com/article/craigsilverman/icit-james-scott-think-tank-fake-twitter-youtube)), [Saudi Arabia's Troll Farm on Twitter](https://www.nytimes.com/2018/10/20/us/politics/saudi-image-campaign-twitter.html); or incentivezed posts look like organic content (Example: [Tobacco companies and incentivized social media posts](https://www.nytimes.com/2018/08/24/health/tobacco-social-media-smoking.html))
+- **Astroturfing**: Troll armies upvote and positively comment on their posts (Example: [Russia's Internet Research Agency](https://www.nytimes.com/2018/02/18/world/europe/russia-troll-factory.html), [ICIT Think Tank](https://www.buzzfeednews.com/article/craigsilverman/icit-james-scott-think-tank-fake-twitter-youtube)), [Saudi Arabia's Troll Farm on Twitter](https://www.nytimes.com/2018/10/20/us/politics/saudi-image-campaign-twitter.html); or incentivized posts look like organic content (Example: [Tobacco companies and incentivized social media posts](https://www.nytimes.com/2018/08/24/health/tobacco-social-media-smoking.html))
 
 *Other Issues*
 
@@ -205,7 +205,7 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 	- maintain good source relationships and access for future information
 	- manage substantial story deadlines with limited time (example: [Paul Graham’s post on maximizing PR and importance of making stories easy for journalists](http://www.paulgraham.com/submarine.html))
 	- show strong engagement metrics to ensure job security (Example: [Greta Van Susteren at MSNBC](https://www.nytimes.com/2017/06/29/business/media/greta-van-susteren-leaving-msnbc-after-only-six-months.html))
-	- can be fired or influenced to prevent unfavorable coverage even in seemingly innocuous beats like business or technical reporting (example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html)) (there are obviously much worse things that happen to journalists, and my focus is in tech reporting)
+	- can be fired or influenced to prevent unfavorable coverage(example: [Newsweek firing for critical coverage of Newsweek’s parent company](https://www.nytimes.com/2018/02/05/business/media/newsweek-firings.html), [Bob Costas and the NFL](http://www.espn.com/espn/otl/story/_/id/25914913/inside-story-how-legendary-nfl-broadcaster-bob-costas-ended-excised-football-nbc-espn)) (there are also much worse things that happen to journalists)
 	- use “three’s a trend” as a common heuristic, despite the fact that this would be laughable to most statisticians (example: [Great Clown Scare of 2016](https://www.nytimes.com/2016/09/13/insider/on-the-creepy-clown-beat-you-really-cant-make-this-stuff-up.html), [anecdotes vs data](https://twitter.com/trengriffin/status/948366029058535424))
 	- Often overweight single data points to make too broad generalizations (e.g., first Tesla fatality calling into question if autonomous driving [will ever be safer](https://www.nytimes.com/2016/07/01/business/self-driving-tesla-fatal-crash-investigation.html), the low usage of a cryptocurrency collectible game implies [the entire use case will never be successful](https://twitter.com/TheStalwart/status/1005209891475214339))
 	- are susceptible to narrative - and confirmation bias - that then influences the follow-up coverage they do (example: "Facebook is bad" narrative in early 2018 means that all Facebook's decisions are suspect, even [those that have a lot of nuance](https://twitter.com/josephfcox/status/981563571904622592))
