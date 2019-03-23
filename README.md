@@ -27,7 +27,7 @@ Still, I'll make some simple, but opinionated suggestions:
 	- Many of the posts we read are shared by our friends and others who share our beliefs; this gives us a selective view of the world (and is a form of segregation)
 	- At minimum, realize that social media is not a mirror what's going on in the world, but a carefully curated set of events meant to engage you
 - **Follow thoughtful voices that disagree with you**, rather than using the most extreme voices to understand the other side
-- **Keep an open mind**, as the full set of facts we need to have informed opinions are often not engaging enough for media sources and social networks to provide us. When you have a deep seated viewpoint, measure it against the most thoughtful dissenting argument NOT the most extreme voice on the other side
+- **Keep an open mind**, as the full set of facts we need to have informed opinions are often not engaging enough for media sources and social networks to provide us. When you have a deep seated viewpoint, measure it against the [most thoughtful dissenting argument](https://en.wikipedia.org/wiki/Principle_of_charity) NOT the most extreme voice on the other side
 - **Ask certain key questions** with any media you consume:
   - Why are they writing about this topic and how do they and/or their sources personally benefit? Always need to understand the personal motivation of writer and their sources
   - Why is the media distributor (social network, news organization) putting this piece of content in front of me? How do they benefit from having me see this content?
