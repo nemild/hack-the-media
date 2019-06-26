@@ -1,5 +1,5 @@
 # Hack the _Financial_ Media
-### tl;dr
+
 A financial media literacy guide for investors. If you’re an investor, it pays to know the incentives behind your financial markets coverage. 
 
 **In short**: The financial and engagement imperatives of financial media organization often lead to poor investment decisions. Many of the stakeholders willing to talk to media sources also have their own financial incentives that is at odds with what they're actually seeing.
