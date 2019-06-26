@@ -1,9 +1,16 @@
 # Hack the _non-pluralistic duality_ in Media
 
-A literacy guide in the non-pluralistic duality of the mainstream and alternative media. There is much more in history, scientific evidence, individual experiences and underlying dogmas in common sense to consider in contrary to what mainstream and alternative news agencies present as facts or even as science, and especially what they on purpose do not uncover.
-An important task of news agencies is selling news, fast and disruptive, for the public to be distracted from what is really important.
+A guideline for literacy in the non-pluralistic duality of the regular and alternative media. 
+_There is much more in history, scientific evidence, individual experiences and underlying dogmas in a healthy sense to consider a multi-edged opinion as opposed to what regular and alternative news agencies present as facts or even as science, what they on purpose do not uncover and how the apparent pluralistic dualtity between mainstream and alternative news only leads to less understanding throught more noise._
 
-This contribution is meant to give insights in current state of media reality.
+An important task of news agencies is selling news, fast and disruptive, for the public to be distracted from what is really important, what is real and what is acutally happening. This article is meant to give insights in current state of the non-pluralistic duality in global media and the reality of public relation management, mind control and indoctrination through media.
+
+An example of so called non-pluralistic duality is the climate change debat. 
+On one hand there are those who are convinced the earth climate is changing because of the polution human activities cause. This group believes climate change is a threat and we all should make an effort to minimalize this human polution to keep the earthclimate for humans liveble. This group likes to see goverments take action in agreements, legislations and practical applications.
+On the other hand there are those who do not agree te earth climate is changing that rapidly it would be a threath. This group does not feel a need to let goverments take action in agreements, legislations and practical applications.
+
+Both groups substantiate their conviction with multiple scientific reseach results that suit their opinion.
+Inside this duality their are many people who agree that the earths polution by human activities should be minimalized.
 
 -- in progress --
 
@@ -45,4 +52,4 @@ Notes/to research:
     
  -- in progress --
  
-Writers note: this contribution is meant positive, if one has these insights, laughter is all we need to defy the nonsense
+Writers note: this contribution is meant positive, laughter is all we need to defy the nonsense
