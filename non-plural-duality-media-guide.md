@@ -1,6 +1,6 @@
-# Hack the _Duality_ in Media
+# Hack the _non-plural duality_ in Media
 ### tl;dr
-A mainstream and alternative (duality) media literacy guide for the public. There is much more history and there are many more facts to know opposed to what alternative and mainstream news agencies cover and present as facts or even as science.
+A non-plural duality mainstream and alternatives media literacy guide for the public. There is much more history and there are many more facts to know opposed to what alternative and mainstream news agencies cover and present as facts or even as science.
 Human health, brainpower, thoughts and consciousness are under pressure by modern technologies, healthcare, medicine and marketing strategies. It becomes harder and harder each day to separate facts from fiction, to feel healthy and to know yourself. 
 
 -- in progress --
