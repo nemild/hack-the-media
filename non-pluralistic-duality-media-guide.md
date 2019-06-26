@@ -1,16 +1,22 @@
 # Hack the _non-pluralistic duality_ in Media
 
 A guideline for literacy in the non-pluralistic duality of the regular and alternative media. 
-_There is much more in history, scientific evidence, individual experiences and underlying dogmas in a healthy sense to consider a multi-edged opinion as opposed to what regular and alternative news agencies present as facts or even as science, what they on purpose do not uncover and how the apparent pluralistic dualtity between mainstream and alternative news only leads to less understanding throught more noise._
+_There is much more in history, scientific evidence, individual experiences and underlying dogmas in common sense to consider a multi-edged opinion opposed to what regular and alternative news agencies present as facts or even as science, what they on purpose do not uncover and how the apparent pluralistic dualtity between mainstream and alternative news only leads to less understanding throught more noise._
 
 An important task of news agencies is selling news, fast and disruptive, for the public to be distracted from what is really important, what is real and what is acutally happening. This article is meant to give insights in current state of the non-pluralistic duality in global media and the reality of public relation management, mind control and indoctrination through media.
 
-An example of so called non-pluralistic duality is the climate change debat. 
-On one hand there are those who are convinced the earth climate is changing because of the polution human activities cause. This group believes climate change is a threat and we all should make an effort to minimalize this human polution to keep the earthclimate for humans liveble. This group likes to see goverments take action in agreements, legislations and practical applications.
-On the other hand there are those who do not agree te earth climate is changing that rapidly it would be a threath. This group does not feel a need to let goverments take action in agreements, legislations and practical applications.
+An example of so called non-pluralistic duality is the apparent climate change debat. 
 
-Both groups substantiate their conviction with multiple scientific reseach results that suit their opinion.
-Inside this duality their are many people who agree that the earths polution by human activities should be minimalized.
+On one hand there are those who feel a need to let goverments take action in agreements, legislations and practical applications. This group believes climate change is a threat and we all should make an effort to minimalize this human polution to keep the earth climate liveble for humans.
+
+On the other hand there are those who do not feel a need to let goverments take action in agreements, legislations and practical applications. This group believes many different things, some do not believe the climate is changing, some do believe the climate is changing caused by different causes, some do or do not want to understand climate change, and others just do not care. 
+
+At this level of formal politics both groups substantiate their conviction with multiple scientific reseach results that suit their opinion. Inside this duality their are people on both sides who agree that the earths polution by human activities should be minimalized. Most media only cover this level of debate, it is versatile yet easily understood and brings the needed duality.
+
+Understanding this debate on another level it is in essence not about the earth climate, it is about the power of government granted by the public out of fear.
+
+What remains unspoken by the mainstream media is the fact that many weather modification tests and programs have taken place since 1940's and have grown in number and impact ever since without any public awareness or consent. Alternative media do cover many stories and scientific facts about weather modification as a cause of climate change. Still many people do not take weather modifcation as a fact. This brings yet another level of understanding the climate change debate. How many people can be tricked in not wanting to know the truth? This is a very simple non-pluralistic duality.
+
 
 -- in progress --
 
