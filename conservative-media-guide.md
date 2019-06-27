@@ -1,12 +1,35 @@
 # Hack the _conservative_ in Media
 
-A guideline for literacy on the conservative media. 
+An alternative media literacy guide for open-minded people
 
 ### General Observations
-_There is much more in history, scientific evidence, individual experiences and underlying dogmas in common sense to consider a multi-edged opinion opposed to what conservative news agencies present as facts or even as science, what they on purpose do not uncover and how the apparent pluralistic dualtity between mainstream and alternative news only leads to less understanding through more noise._
+_There is a great deal of documented history, scientific research, individual experiences and underlying dogmas in common sense to consider a multifaceted opinion and come to a deeper understanding, as opposed to what press agencies present as facts or science, which information they purposely do not reveal and how the apparent pluralistic duality between regular and alternative news only produces more noise and leads to less understanding of the matter through disorientation and distraction._
 
+### Definition
 
--- in progress --
+The current conservative media is defined by financial and political motives that stem from capitalism. For legal investments with a profit motive in money, entities depend on the monetary system. The monetary system is globally dependent on the central banks through the perpetual debt agreements with the local governments. This interaction of dependence puts enormous pressure on the monetary and socio-economic policies of all entities to maintain this economic system, modern capitalism. This means that all media that depend on investors with a profit motive in money are by definition conservative.
+
+### Most important
+
+  - Conservative media is not defined by the technology that they use as a medium and is not limited to newspapers and television news channels. The conservative media are widely represented and represent the most powerful entities on earth.
+  - Apparent conflicts and opposite opinions from different media channels, apparently conservative and alternative, can basically use the same sources and / or pursue the same motives.
+
+### Recognition points
+ 
+  - initially only seemingly to report events
+  - in the second instance, well-prepared experts and witnesses are questioned
+  - one-sidedness; the same topics and views are repeated extensively
+  - no attention for and denial of various proven plots
+  - are often the mouthpiece of the local government
+  - no attention for suspicions against governments
+  - use quasi-scientific explanations as scientific evidence
+  - always have the same sources including the state newsoffice, Reuters, Wegener and Nasa.
+  - no attention for clear controversial world issues.
+  - no attention for debate about changes to the central banking system or the perpetual debt agreements
+  
+  
+  
+-- in progress: --
 
 
 #### Background
