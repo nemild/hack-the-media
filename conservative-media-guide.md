@@ -27,21 +27,20 @@ The current conservative media is defined by financial and political motives tha
   - no attention for clear controversial world issues.
   - no attention for debate about changes to the central banking system or the perpetual debt agreements
   
-  
-  
--- in progress: --
-
 
 #### Background
 - The hyperreal and the fiction of our reality matrix opposed to historical facts, scientific evidence and the real
 
-  _The conservative reporting about certain important events and apparently less important facts leads to a one-sided public opinion. Together with the overload of information, leading to an inevitable noise, most man can only attend to the financial benefits and future insurance policies for themselfs and their immediate environment and therefor do not oppose the status quo. And without any resistance we automatically maintain, subscribe, proclaim and fool ourselves into living delusions._
-  
+  _The onesided conservative coverage of certain important events and apparently less important facts leads to a one-sided public opinion. Together with the overload of information by the apparent pluralistic duality between regular and alternative news, leading to an inevitable noise, most man can only attend to the financial benefits, status, contentment and future insurance policies for themselfs and their immediate environment and therefor can not oppose the status quo. And without any resistance we automatically maintain, subscribe, proclaim and fool ourselves into living delusions._
+
+
+-- in progress: --
+
   - George Orwell, Aldous Huxley, Jean Baudrillard, Umberto Eco
 
 - Health issues related to modern technologies, modern medicine, food and polution (including weather modification)
 
-  _Human health, brainpower, thoughts and consciousness are under pressure by modern technologies, healthcare, medicine and marketing strategies. It becomes harder and harder each day to separate facts from fiction, to feel healthy and to know yourself._
+  _Human health, brainpower and consciousness are under pressure by modern technologies, environmental pollution, bad healthcare, insidious pharmaceuticals and the programming of society itself depending on marketing strategies. It becomes harder and harder each day to separate facts from fiction, to feel healthy and to know thou self._
   
   - (scientific research on wifi, g4 and g5 radiation) - possibly causing cancer as stated by among others. the european commission
   - scientific research on comparative radiation, waves and frequencies that break down the resistance system
@@ -49,7 +48,7 @@ The current conservative media is defined by financial and political motives tha
 
 - Public relations and false flags - new funded terrorism
 
-  _The ridiculing of conspiracies by conservative media agencies are in in contradiction with the long human history of proven conspiracies and the ease with which people are repeatedly misled. Eventually this will only lead to media and persons ridiculing themselfs and distrust themselfs._
+  _The ridiculing of conspiracies by conservative media agencies are in contradiction with the long human history of proven conspiracies and the ease with which people are repeatedly misled. Eventually this will only lead to media and persons ridiculing themselfs and distrust themselfs._
   
   - Freud, Barney, Sartre, Nietsche 
   - the acceptance of ai robotics, cyborg lifeforms and technological infiltration disguished in gender neutral politics
