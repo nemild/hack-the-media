@@ -3,37 +3,41 @@
 An alternative media literacy guide for open-minded people
 
 ### General Observations
-_There is a great deal of documented history, scientific research, individual experiences and underlying dogmas in common sense to consider a multifaceted opinion and come to a deeper understanding, as opposed to what press agencies present as facts or science, which information they purposely do not reveal and how the apparent pluralistic duality between regular and alternative news only produces more noise and leads to less understanding of the matter through disorientation and distraction._
+_There is a great deal of documented history, scientific research and individual experiences, and underlying dogmas in common sense, to consider a multifaceted opinion and come to a deeper understanding, as opposed to what press agencies present as facts or science, which information they purposely do not reveal and how the apparent pluralistic duality between regular and alternative news only produces more noise and leads to less understanding of the matter through disorientation and distraction._
 
 ### Definition
 
-The current conservative media is defined by financial and political motives that stem from capitalism. For legal investments with a profit motive in money, entities depend on the monetary system. The monetary system is globally dependent on the central banks through the perpetual debt agreements with the local governments. This interaction of dependence puts enormous pressure on the monetary and socio-economic policies of all entities to maintain this economic system, modern capitalism. This means that all media that depend on investors with a profit motive in money are by definition conservative.
+The current conservative media is defined by financial and political motives that stem from capitalism. 
+
+For legal correct investments with a profit motive in money, entities depend on the monetary system. The monetary system is globally dependent on the central banks who depend on the perpetual debt agreements with the local governments. This interaction of dependencies puts enormous pressure on the monetary and social-economic politics of all cooperating entities to maintain this global economic system, a single-market capitalism. This means that all media that depend on investors with a profit motive in money are by definition conservative.
 
 ### Key Tips
 
   - Conservative media is not the so called Main Stream Media and is not defined by the technology that they use as a medium. The conservative media is a type of well established media and has overcome the shift from old media technologies to the internet very well, not limited to newspapers and television news channels. 
-  - The conservative media are widely represented and cited. They indirectly, and sometimes unintentionally, represent the most powerful entities on earth.
-  - Apparent conflicts and opposite opinions from different conservative media channels, apparently mainstream and alternative, can basically use the same sources and / or pursue the same motives.
+  - The conservative media are widely represented and cited. They represent, often indirectly and unintentionally, the steering power of the most powerful entities on earth.
+  - Apparent conflicts and opposite concepts from different conservative media, apparently mainstream and alternative, can basically use the same sources or combine different sources to still pursue the same motives.
 
 ### Recognition points
- 
+The conservative media 
+
   - initially only seemingly to report events
-  - in the second instance, 'well-prepared' 'experts' and witnesses are questioned
+  - in the second instance question well-prepared 'experts' and witnesses 
   - one-sidedness; the same topics and views are extensively repeated 
   - are often the mouthpiece of the local government
   - no attention for suspicions against governments
   - no attention for and denial of various proven conspiracies
-  - use quasi-scientific explanations, backed by 'well-prepared experts' as scientific evidence
-  - always have the same sources including the local state newsoffice, Reuters, Wegener and Nasa.
+  - use quasi-scientific explanations, backed by well-prepared 'experts' as scientific evidence
+  - use the same sources including the local state news office, Reuters, Wegener and Nasa.
   - no attention for clear controversial world issues.
   - no attention for debate about changes to the central banking system or the perpetual debt agreements
   
 
 ### Philosophical background
 
-- The hyperreal and the fiction of the human reality matrix opposed to historical facts, scientific evidence and the real
+- The *hyperreal* and the fiction of the human reality matrix opposed to historical facts, scientific evidence and the real
 
-  _The onesided conservative coverage of certain important events and apparently less important facts leads to a one-sided public opinion. In conjuction with the overload of information, accelerated by our digital technologies, including all the apparent pluralistic duality between regular and alternative news, leading to an inevitable noise, most man can only attend to the benefits of financial security, status, contentment for themselfs and their immediate environment and therefor can not affort to oppose the status quo. And without this resistance we automatically maintain, subscribe, proclaim and fool ourselves into living delusions._
+  _"The onesided conservative coverage of certain important events and apparently less important facts leads to a one-sided public opinion. The conjuction of man with the overload of information, accelerated by modern technological media strategies, including all the apparent pluralistic duality between regular and alternative news, leads to an inevitable noise in which most man can only attend to contentment for themselfs and their immediate environment through the benefits of financial security and status, and therefor can not affort to oppose the status quo. And without this resistance man automatically maintains, subscribes, proclaims and fools themselves into living delusions."_ 
+C-P Müller - the loss of fantasy 
 
   - Plato, George Orwell, Aldous Huxley, Paul Virilio, Jean Baudrillard, Umberto Eco
   
@@ -76,7 +80,8 @@ The current conservative media is defined by financial and political motives tha
 
 - Health issues related to modern technologies, modern medicine, food and polution (including weather modification)
 
-  _Human health, brainpower and consciousness are under pressure by modern technologies, environmental pollution, bad healthcare, insidious pharmaceuticals and the programming of society itself depending on marketing strategies. It becomes harder and harder each day to separate facts from fiction, to feel healthy and to know thou self._
+  _Human health, brainpower and consciousness are under pressure by modern technologies, environmental pollution, bad healthcare, insidious pharmaceuticals and the programming of society itself depending on marketing strategies. It becomes harder and harder each day to separate facts from fiction, to feel healthy and to know thou self._ 
+C-P Müller - the loss of fantasy
   
   - (scientific research on wifi, g4 and g5 radiation) - possibly causing cancer as stated by among others. the european commission
   - scientific research on comparative radiation, waves and frequencies that break down the resistance system
@@ -84,7 +89,7 @@ The current conservative media is defined by financial and political motives tha
 
 - Public relations and false flags - new funded terrorism
 
-  _The ridiculing of conspiracies by conservative media agencies are in contradiction with the long human history of proven conspiracies and the ease with which people are repeatedly misled. Eventually this will only lead to media and persons ridiculing themselfs and distrust themselfs._
+  _The ridiculing of conspiracies by the conservative media are in contradiction with the long human history of proven conspiracies and the ease with which people are repeatedly misled. Eventually this will only lead to media and persons ridiculing themselfs and distrust themselfs._ C-P Müller - Modern perspectives
   
   - Freud, Barney, Sartre, Nietsche 
   - the acceptance of ai robotics, cyborg lifeforms and technological infiltration disguished in gender neutral politics
