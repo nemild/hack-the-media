@@ -4,7 +4,7 @@ A media literacy guide for software engineers (general media literacy guide [her
 
 ![Puppet cutting it's string - Male](https://www.nemil.com/musings/images/puppet-1.0.png) ![Puppet cutting it's string - Female](https://www.nemil.com/musings/images/puppet-2.png)
 
-<small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](http://eepurl.com/cxs5Zr) — original SVGs are [here](https://www.nemil.com/musings/images/boy-eng-puppet.svg) and [here](https://www.nemil.com/musings/images/girl-eng-puppet.svg).*</small>
+<small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](https://mailchi.mp/7c5585e8e02f/puppets-software) — original SVGs are [here](https://www.nemil.com/musings/images/boy-eng-puppet.svg) and [here](https://www.nemil.com/musings/images/girl-eng-puppet.svg).*</small>
 
 ### Background
 There are many ways to “hack” software engineers by influencing media sources and fellow community members.
