@@ -1,61 +1,57 @@
 -- following text 'conservative-media-guide.md' is in progress by Oddsized --
 
-Hack the conservative in Media
+# Hack the conservative in Media
+
 An alternative media literacy guide for open-minded people
 
-When accustomed living in the dark, every light is avoided as much as possible because it seems too bright. Afraid of being blinded because it was never taught how to use the light.
-General Observations
-There is a great deal of documented history, scientific research, recorded individual experiences and underlying dogmas in common sense, to consider a multifaceted opinion and come to a deeper understanding, as opposed to what press agencies present as facts or science, which information they purposely do not reveal and how the apparent pluralistic duality between regular and alternative news only produces more noise and leads to less understanding of the matter through disorientation and distraction.
-Definition
+### Introduction
+
+"When accustomed living in the dark, every light is avoided as much as possible because it seems too bright. Afraid of being blinded because it was never taught how to use the light." Carl P Müller 2019
+
+
+
+### General Observations
+
+There is a lot of documented history, scientific research, recorded individual experiences and underlying dogmas in common sense, to consider a multifaceted opinion and to gain a deeper understanding, as opposed to the superficial popular quasi-scientific worldview presented by news agencies, entertainment industries and government institutions, which information they deliberately do not disclose and how the apparent pluralistic duality between regular and alternative news only produces more noise and leads to less understanding of the matter through disorientation and distraction.
+
+### Definition
 The current conservative media is defined by financial and political motives that stem from capitalism and the current conservative capitalist world order.
 For legal correct investments with a profit motive in money, entities depend on the monetary system. The monetary system is globally dependent on the central banks who on one hand depend on the perpetual debt agreements with the local governments, the lap boys of the rulers of history, and on the other hand dependend of a substancial amount of brainwashed citizens that value profit in money over human integriteit, freedom and health of mind.
 
- This interaction of dependencies puts enormous pressure on the monetary and social-economic politics of all cooperating entities to maintain this global economic system, a single-market capitalism. This means that all media that depend on investors with a profit motive in money are by definition conservative, conserving the current economic system.
+This interaction of dependencies puts enormous pressure on the monetary and socio-economic politics of all cooperating entities to maintain this global economic system, a single-market capitalism. This means that in principle all media that depend on investors with a profit motive in money are by definition conservative and collaborate to maintain the current economic system.
 
-Key Tips
-Conservative media is not the so called Main Stream Media and is not defined by the technology that is used. The conservative media is a type of well established media and has overcome the shift from old media technologies to the internet very well, not limited to newspapers and television news channels.
-The conservative media are widely represented and cited. They represent, often indirectly and unintentionally, as incompetent and dependent of the financial flows, the steering power of the most powerful entities on earth.
-Apparent conflicts and opposite concepts from different conservative media, apparently mainstream and alternative, can basically use the same sources or combine different sources to still pursue the same motives.
+### Key Tips
+ - Conservative media is not the so called Main Stream Media and is not defined by the technology that is used. The conservative media is a type of well established media and has overcome the shift from old media technologies to the internet very well, not     limited to newspapers and television news channels.
+ - The conservative media are widely represented and cited. They represent, often indirectly and unintentionally, as incompetent and dependent of the financial flows, the steering power of the most powerful entities on earth.
+ - Apparent conflicts and opposite concepts from different conservative media, apparently mainstream and alternative, can basically use the same sources or combine different sources to still pursue the same motives.
 
 
 
-Recognition points
+### Recognition points
 The conservative media
-initially only seemingly to report events
-in the second instance question well-prepared 'experts' and witnesses
-one-sidedness; the same topics and views are extensively repeated
-are often the mouthpiece of the local government
-no attention for suspicions against governments
-no attention for and denial of various proven conspiracies
-use quasi-scientific explanations, backed by well-prepared 'experts' as scientific evidence
-use the same sources including the local state news office, Reuters, Wegener and Nasa.
-no attention for clear controversial world issues.
-no attention for debate about changes to the central banking system or the perpetual debt agreements
+
+ - initially only seemingly to report events
+ - in the second instance question well-prepared 'experts' and witnesses
+ - one-sidedness; the same topics and views are extensively repeated
+ - are often the mouthpiece of the local government
+ - no attention for suspicions against governments
+ - no attention for and denial of various proven conspiracies
+ - use quasi-scientific explanations, backed by well-prepared 'experts' as scientific evidence
+ - use the same sources including the local state news office, Reuters, Wegener and Nasa.
+ - no attention for basic and clear controversial world issues.
+ - no attention for debate about changes to the central banking system or the perpetual debt agreements
 
 
+### Philosophical background
 
-
-
-
-
-
-
-
-
-
-
-Philosophical background
 The hyperreal and the fiction of the human reality matrix opposed to historical facts, scientific evidence and the real experience.
 
-
-The loss of fantasy: "The one sided conservative coverage of certain important events and apparently less important facts leads to a one-sided public opinion. The conjunction of man with the overload of information, accelerated by modern technological media strategies, including all the apparent pluralistic duality between regular and alternative news, leads to an inevitable noise in which most man can only attend to contentment for themselves and their immediate environment through the benefits of financial security and status, and therefore can not afford to oppose the status quo. And without this resistance man automatically maintains, subscribes, proclaims and fools themselves into living delusions. When living in delusions, man can not tell the difference between what is real and what is fantasy." Carl P. Müller
-
+The loss of fantasy: "The one sided conservative coverage of certain important events and apparently less important facts leads to a one-sided public opinion. The conjunction of man with the overload of information, accelerated by modern technological media strategies, including all the apparent pluralistic duality between regular and alternative news, leads to an inevitable noise in which most man can only attend to contentment for themselves and their immediate environment through the benefits of financial security and status, and therefore can not afford to oppose the status quo. And without this resistance man automatically maintains, subscribes, proclaims and fools themselves into living delusions. When living in delusions, man can not tell the difference between what is real and what is fantasy." Carl P. Müller 2018
 
 Plato, George Orwell, Aldous Huxley, Paul Virilio, Jean Baudrillard, Umberto Eco
 Plato discussed the 'ideal forms' of which our perception of reality was an approximation. In hyperreality, it is assumed that our approaches become detached from ideal forms, leaving our perceptions of reality based on other approaches, without the ability to restore the original true form. 
 A multitude of dogmas stem from corruption in science and philosophy, which affect psychology, economics, and culture. On a psychological level, individuals are forced to conform to lies and to deny themselves until their authenticity becomes irrelevant, their individuality becomes annoying and the truth no longer has a voice.
 The most important notice about our Hyper-reality is the possibility of losing sight of the horizon of reality in a world intertwined with so many signs that only refer to concepts anchored in a virtual world and offered to us 24/7 in real time.
-
 
 https://en.wikipedia.org/wiki/Plato - https://en.wikipedia.org/wiki/Theory_of_forms
 https://en.wikipedia.org/wiki/Paul_Virilio - http://people.ischool.berkeley.edu/~ryanshaw/nmwg/Virilio_Information_Bomb.pdf
@@ -64,28 +60,30 @@ https://en.wikipedia.org/wiki/Brave_New_World - https://en.wikipedia.org/wiki/Al
 https://en.wikipedia.org/wiki/Hyperreality - https://en.wikipedia.org/wiki/Jean_Baudrillard
 https://en.wikipedia.org/wiki/Simulacra_and_Simulation
 https://en.wikipedia.org/wiki/Umberto_Eco - http://www.kareneliot.de/downloads/UmbertoEco_Towards%20a%20Semiological%20Guerrilla%20Warfare.pdf
-Examples
 
-Multitude of  Dogma’s
+### Examples
+
+Multitude of Dogma’s in science
 Anything that challenges the dogmatic belief system of science is disregarded by the conservative media.
-"Science at its best is an open-minded method of inquiry, not a belief system." - Rupert Sheldrake https://www.youtube.com/watch?v=JKHUaNAxsTg
+"Science at its best is an open-minded method of inquiry, not a belief system." 
+A thoughfull explanation by Rupert Sheldrake https://www.youtube.com/watch?v=JKHUaNAxsTg
 
-History teachings
-The real teachings in history have faded, commonsense does not apply to reality anymore.
 
-When a customed to the dark, any light will avoided a much as possible because it seems so bright.
+
+
+### Semantics
+The real teachings in history have faded, commonsense does not apply to reality anymore. 
+
 --
 
-After the Second World War, people set up statues and memorials and on an annual basis the people are forced to stand still and commemorate the atrocities during WW2. To reflect upon history is ofcourse a very good custom. The real purpose of these public ceremony are however, unintentional or on purpose, part of a trauma based program.
-
-This completely ignores the actual circumstances of the wars.
+In Europe after the Second World War, people set up statues and memorials and every year people stand still and commemorate the atrocities during the Second World War. Respecting the victims and their relatives and thinking about history is of course a very good practice. Unfortunately, symbols have many different effects, depending on how and by whom they are used. However, the result of these public memorial ceremonies is unintentional or intentional part of a trauma-based mind control program. These memorials completely ignore the actual circumstances of a war, starting with a smart move in politics supported by mass psychology based on fear, and often an economic goal, perhaps hidden, in the background. These memorials point to symptoms of the human disease called war, expose people to traumatic thoughts and at the same time confirm the reality of fear.
 
 --
 
  
 
 
-Hyperreal contradictions
+### Hyperreal contradictions
 The conservative media only repeat the scientific consensus
 In our hyperreality the originality of scientific research and the meaning of a scientific consensus should be questioned (politics vs science)
 
