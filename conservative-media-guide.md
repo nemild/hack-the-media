@@ -4,19 +4,19 @@
 
 An alternative media literacy guide for open-minded people
 
-### Introduction
-
-"When accustomed living in the dark, every light is avoided as much as possible because it seems too bright. Afraid of being blinded because it was never taught how to use the light." Carl P Müller 2019
-
-
-
 ### General Observations
-
-There is a lot of documented history, scientific research, recorded individual experiences and underlying dogmas in common sense, to consider a multifaceted opinion and to gain a deeper understanding, as opposed to the superficial popular quasi-scientific worldview presented by news agencies, entertainment industries and government institutions, which information they deliberately do not disclose and how the apparent pluralistic duality between regular and alternative news only produces more noise and leads to less understanding of the matter through disorientation and distraction.
+Enough documented history, scientific research, recorded individual experiences and underlying dogmas in common sense to consider a multifaceted opinion and to gain a deeper understanding, as opposed to the superficial popular quasi-scientific worldview presented by news agencies, entertainment industries and government institutions. Which information deliberately wil not be disclosed and how the apparent pluralistic duality between regular and alternative news deliberately produces more noise and only leads to less understanding of the matter through disorientation and distraction.
 
 ### Definition
-The current conservative media is defined by financial and political motives that stem from capitalism and the current conservative capitalist world order.
-For legal correct investments with a profit motive in money, entities depend on the monetary system. The monetary system is globally dependent on the central banks who on one hand depend on the perpetual debt agreements with the local governments, the lap boys of the rulers of history, and on the other hand dependend of a substancial amount of brainwashed citizens that value profit in money over human integriteit, freedom and health of mind.
+There are various reasons for defining current media, including the so-called "new" media, as very conservative.
+The global capitalist economy, based on profit at the expense of others, arose from the prehistoric thinking of humanity in which life was still full of danger, food or food.
+Over the centuries this mentality has been used and transformed to keep people anxious and small in mind. This tactic is still used by those who want to retain power over others because they are also afraid and because it is very difficult for these people to let go.
+It is fear that causes people to accept dogmas that hide and deceive the truth of our thoughts and feelings. These thoughts cannot support a future for the free person, because human survival is based on corruption from within.
+
+Thinking about thoughts creates opposing thoughts that support and sustain the idea of the opposite. This is the basic principal that is used in the devide-and-rule tactics.
+
+Conservative media through financial and political motives that stem from capitalism and the current conservative capitalist world order.
+For legally correct investments with a profit motive in money, entities are dependent on the monetary system. The monetary system depends globally on the central banks that depend on the one hand on perpetual debt agreements with local governments, on the lap boys of the financial rulers of history, and on the other on a substantial number of brainwashed citizens who value profits in money above human integrity, freedom and health of mind.
 
 This interaction of dependencies puts enormous pressure on the monetary and socio-economic politics of all cooperating entities to maintain this global economic system, a single-market capitalism. This means that in principle all media that depend on investors with a profit motive in money are by definition conservative and collaborate to maintain the current economic system.
 
