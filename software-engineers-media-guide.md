@@ -1,5 +1,4 @@
 # Hacking Engineers and Engineering Media
-### tl;dr
 A media literacy guide for software engineers (general media literacy guide [here](README.md)).
 
 ![Puppet cutting it's string - Male](https://www.nemil.com/musings/images/puppet-1.0.png) ![Puppet cutting it's string - Female](https://www.nemil.com/musings/images/puppet-2.png)

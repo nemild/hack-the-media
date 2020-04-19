@@ -1,5 +1,4 @@
 # Hack the Media
-### tl;dr
 A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (there is also a [technology industry media guide](software-engineers-media-guide.md) and a [financial media guide](financial-media-guide.md)).
 
 
