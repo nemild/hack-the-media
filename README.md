@@ -42,10 +42,10 @@ Still, I'll make some simple, but opinionated suggestions:
 	- Example:
 
 > Jon Stewart: “What ...is the role for \[financial news network] CNBC? … There were literally shows called *Fast Money*.”
-> 
+>
 >Jim Cramer: "There's a market for it and you give it to them ... I too like you want to have a successful show ...I'm trying to bring in younger people who really don't want to hear about the stuff ..." ([link](http://www.cc.com/video-clips/rfag2r/the-daily-show-with-jon-stewart-exclusive---jim-cramer-extended-interview-pt--2))
 
-- **Selective facts are everywhere**: Selective facts are “true” facts that only tells us part of the story. For example, some illegal immigrants have killed Americans, while others contribute positively. 
+- **Selective facts are everywhere**: Selective facts are “true” facts that only tells us part of the story. For example, some illegal immigrants have killed Americans, while others contribute positively.
 	- *Selective facts in partisan news and social media*: Partisan news and social media algorithms focus on the facts that confirm our beliefs and purposefully exclude important facts that give us the full picture (see my [article on selective facts](https://qz.com/1130094/todays-biggest-threat-to-democracy-isnt-fake-news-its-selective-facts/))
 	- *The newsworthiness of bad news vs good news*: When changes happen that have both positive effects and negative effects, the negative effects get much greater coverage because it is more engaging and newsworthy. [Negative news gets more coverage than positive news](https://www.pnas.org/content/116/38/18888#sec-1), driven by reader interest. This is a form of [sampling bias](https://en.wikipedia.org/wiki/Sampling_bias)
 		- Examples: When interests rates go up, they don't only slow down the economy - BUT make house prices more affordable and reduce the risk of inflation; when a global trade war happens, [certain domestic companies lose](https://www.nytimes.com/2018/11/28/magazine/trade-war-tariffs-small-business.html) - BUT other domestic companies may benefit
@@ -55,9 +55,9 @@ Still, I'll make some simple, but opinionated suggestions:
   - Leads you to a deeply flawed view, which you need to consciously correct for by favoring moderate voices on the "other" side
   - Also suggests that algorithms need to chase more than outrage and engagement (this is a key reason for filter bubbles, see the WSJ's [Red Feed vs Blue Feed](http://graphics.wsj.com/blue-feed-red-feed/) or the reason [why terrorist attacks in the Middle East won't be well covered in the West](https://www.theguardian.com/commentisfree/2016/mar/25/nothing-wrong-mourning-brussels-not-beirut))
   - "[The extremes are screaming while the center whispers](https://techcrunch.com/2018/08/27/graphika-visualizes-twitters-filter-bubbles-in-the-us/)"; for more, see the SMBC Comic [How Internet Fighting Works](https://www.smbc-comics.com/comic/2013-04-07)
-  
+
 - **Access and the Turning Journalism into PR**: Journalists are sometimes incentivized or subtly threatened to write positively about select topics, as one tech journalist writes:
- 
+
 > “It’s a game of access, and if you don’t play it carefully, you may pay sorely. Outlets that write negatively about gadgets often don’t get pre-release versions of the next gadget. Writers who ask probing questions may not get to interview the C.E.O. next time he or she is doing the rounds. If you comply with these rules, you’re rewarded with page views and praise in the tech blogosphere. And then there’s the fact that many of these tech outlets rely so heavily on tech conferences. “If you look at most tech publications, they have major conferences as their revenue,” Jason Calacanis, the blogger and founder of Weblogs, told me. “If you hit too hard, you lose keynotes, ticket buyers, and support in the tech space.”" ([link](https://www.vanityfair.com/news/2016/05/theranos-silicon-valley-media))
 
 - **The Power of Narrative**: Humans generally value stories with certain narrative notes (e.g., good vs evil, [David vs Goliath](https://en.wikipedia.org/wiki/Goliath#Modern_usage_of_%22David_and_Goliath%22), a new technology/startup will make the world a better place); Hollywood writers and journalists face similar incentives to cater to this demand
@@ -235,3 +235,5 @@ This example shares a lot of similarities with [publication bias](https://en.wik
 - Distinguish between guest written or sponsored pieces, and something written by the staff
 - Rather than looking to journalists to understand journalistic incentives, look to statements from media business owners and editors
 - Read *[All the News That’s Fit to Sell](https://www.amazon.com/All-News-Thats-Fit-Sell/dp/0691123675/ref=sr_1_1)* (Stanford Professor James Hamilton) and *[Public Opinion](https://en.wikipedia.org/wiki/Public_Opinion_(book))* (Walter Lippmann) for more on how events are turned into news
+- Read media that is not directly targeted to you, since it'll be easier to distance yourself from it and thereby critique it
+  - Examples: If you live in the US, then read non-US media (Hong Kong and UK media would be a good start, but any English translation would work well). If you're a programmer, read media geared towards marketeers and salespeople. If you a feverent believer in an ideology, then read media that promotes a different ideology.
