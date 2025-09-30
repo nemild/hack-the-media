@@ -2,9 +2,9 @@
 A media literacy guide that highlights ways that our media sources can give us a flawed view of the world (there is also a [technology industry media guide](software-engineers-media-guide.md) and a [financial media guide](financial-media-guide.md)).
 
 
-![Puppet cutting it's string - Male](https://www.nemil.com/musings/images/male-puppet-small.png) ![Puppet cutting it's string - Female](https://www.nemil.com/musings/images/female-puppet-small.png)
+![Puppet cutting it's string - Male](https://nemil.com/wp-content/uploads/2025/09/male-puppet-small.png) ![Puppet cutting it's string - Female](https://nemil.com/wp-content/uploads/2025/09/female-puppet-small.png)
 
-<small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](https://mailchi.mp/7c5585e8e02f/puppets-software) — original SVGs are [here](https://www.nemil.com/musings/images/boy-eng-puppet.svg) and [here](https://www.nemil.com/musings/images/girl-eng-puppet.svg).*</small>
+<small>*These images are available to use freely ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Free stickers can be requested [here](https://mailchi.mp/7c5585e8e02f/puppets-software) — original SVGs are [here](https://nemil.com/wp-content/uploads/2025/09/boy-eng-puppet.svg) and [here](https://nemil.com/wp-content/uploads/2025/09/girl-eng-puppet.svg).*</small>
 
 ### Background
 There are many ways for motivated parties to “hack” humans by influencing their media sources and fellow community members.
